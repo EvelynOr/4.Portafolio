@@ -9,6 +9,7 @@ Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge
 
 
 Se utilizo Excel | Power BI | Python | SQL Server
+
 Nivel: basico-intermedio
 
 📊 En Excel se trabajo con una muestra aleatoria generada en Python, con n =  500.
