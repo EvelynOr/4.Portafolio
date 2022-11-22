@@ -1,4 +1,6 @@
-🍕🍕 Tiene análisis de datos realizado para Plato's Pizza, competencia promovida por Mavenanalytics.
+🍕🍕 Competencia promovida por Mavenanalytics
+
+Tiene análisis de datos realizado para Plato's Pizza, competencia promovida por Mavenanalytics.
 
 Se utilizo Excel, Power BI y Python
 La data la pueden encontrar en https://www.mavenanalytics.io/blog/maven-pizza-challenge 
