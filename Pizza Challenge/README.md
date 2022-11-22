@@ -7,5 +7,5 @@ La data la pueden encontrar en https://www.mavenanalytics.io/blog/maven-pizza-ch
 
 📊 En Excel se trabajo con una muestra aleatoria generada en Python, con n =  500.
 
-![renewable-energy](https://user-images.githubusercontent.com/82233779/203393032-4fc7df78-aebd-40ce-9990-27c3e0781f6d.png)
+![PowerBI](https://user-images.githubusercontent.com/82233779/203393296-9412bf30-c95c-4db8-a9e8-f3e01df7a5c6.PNG)
 En Power BI, se trabajo con toda la data y se consolido con SQL Server
