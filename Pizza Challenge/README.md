@@ -1,6 +1,8 @@
 🍕🍕 Pizza Challenge 
+
 Competencia promovida por Mavenanalytics
-Tiene análisis de datos realizado para Plato's Pizza
+Tiene análisis de datos realizado para un restaurante de pizza
+
 Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 
 
