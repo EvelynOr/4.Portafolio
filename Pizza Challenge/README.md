@@ -14,7 +14,7 @@ Nivel: basico-intermedio
 
 📊 En Excel se trabajo con una muestra aleatoria generada en Python, con n =  500.
 
-![1 Dashboard_Excel](https://user-images.githubusercontent.com/82233779/203415256-471ff1ad-b414-4b32-921c-df4bdae069b7.PNG)
+![1 Dashboard_Excel](https://user-images.githubusercontent.com/82233779/203416387-05674c97-11aa-4cb8-8424-cb69ee209918.PNG)
 
 
 
