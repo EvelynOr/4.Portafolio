@@ -13,6 +13,7 @@ Se utilizo Excel | Power BI | Python | SQL Server
 Nivel: basico-intermedio
 
 📊 En Excel se trabajo con una muestra aleatoria generada en Python, con n =  500.
+
 ![1 Dashboard_Excel](https://user-images.githubusercontent.com/82233779/203415256-471ff1ad-b414-4b32-921c-df4bdae069b7.PNG)
 
 
