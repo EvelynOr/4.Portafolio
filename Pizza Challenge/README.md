@@ -1,9 +1,11 @@
-🍕🍕 Competencia promovida por Mavenanalytics
-
+🍕🍕 Pizza Challenge 
+Competencia promovida por Mavenanalytics
 Tiene análisis de datos realizado para Plato's Pizza
+Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 
-Se utilizo Excel, Power BI y Python
-La data la pueden encontrar en https://www.mavenanalytics.io/blog/maven-pizza-challenge 
+
+Se utilizo Excel | Power BI | Python | SQL Server
+Nivel: basico-intermedio
 
 📊 En Excel se trabajo con una muestra aleatoria generada en Python, con n =  500.
 
