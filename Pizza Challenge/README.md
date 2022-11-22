@@ -6,6 +6,7 @@ Tiene análisis de datos realizado para un restaurante de pizza
 Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 
 
+
 Se utilizo Excel | Power BI | Python | SQL Server
 Nivel: basico-intermedio
 
