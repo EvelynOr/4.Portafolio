@@ -8,7 +8,8 @@
 - Nivel: basico-intermedio
 
 
-### ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI, se trabajó con toda la data. Se analizó a través de métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se dan algunas sugerencias y se proponen indicadores se seguimiento para los siguientes períodos.   
+### ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
+- se trabajó con toda la data. Se analizó a través de métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se dan algunas sugerencias y se proponen indicadores se seguimiento para los siguientes períodos.   
 
 ##### Actividades
 - Revisión de la data y diccionario
