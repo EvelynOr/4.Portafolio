@@ -18,4 +18,4 @@
 
 
 
-[^1]: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
+[^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
