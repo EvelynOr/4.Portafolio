@@ -2,7 +2,7 @@
 
 + Análisis de datos realizado para un restaurante de pizza
 * Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
-- Objetivo: Mejorar las operaciones del restaurante
+- Objetivo: Mejorar las operaciones del restaurante en 2016
 
 -Se utilizo Excel | Power BI | Python | SQL Server
 -Nivel: basico-intermedio
