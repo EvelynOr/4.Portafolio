@@ -14,7 +14,9 @@
 
 
 
-![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI, se trabajo con toda la data y se consolido con SQL Server
+![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI, se trabajó con toda la data y se consolidó con SQL Server. Se analizó a través de métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se proponen indicadores se seguimiento para los siguientes períodos.   
+
+##### Actividades  
 
 
 🐍 En Python 
