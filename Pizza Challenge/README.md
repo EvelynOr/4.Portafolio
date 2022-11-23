@@ -1,4 +1,4 @@
-🍕🍕 ### Pizza Challenge: Competencia promovida por Mavenanalytics [^1] 
+### 🍕🍕  Pizza Challenge: Competencia promovida por Mavenanalytics [^1] 
 
 + Análisis de datos realizado para un restaurante de pizza 
 + Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
