@@ -18,7 +18,7 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 - Definición de métricas por tipo de analisis realizado
 - Diagramación   
 
-![PBI](https://user-images.githubusercontent.com/82233779/203617540-f6dd7e20-4a66-4f5c-a42b-d8f1bb54ded0.png)
+![PBI](https://user-images.githubusercontent.com/82233779/203619328-de08192d-a6db-435e-a570-4244fc1859b4.png)
 
 ### 📊 En Excel 
 
