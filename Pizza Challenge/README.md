@@ -9,7 +9,8 @@
 
 
 ### ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
-- se trabajó con toda la data. Se analizó a través de métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se dan algunas sugerencias y se proponen indicadores se seguimiento para los siguientes períodos.   
+
+Se trabajó con toda la data. Se analizó a través de métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se dan algunas sugerencias e indicadores se seguimiento para los siguientes períodos.   
 
 ##### Actividades
 - Revisión de la data y diccionario
@@ -20,7 +21,9 @@
 ![PBI](https://user-images.githubusercontent.com/82233779/203617540-f6dd7e20-4a66-4f5c-a42b-d8f1bb54ded0.png)
 
 
-### 📊 En Excel se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinamicas y conexiones de informes para hacer dinamico el tablero  
+### 📊 En Excel 
+
+Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinamicas y conexiones de informes para hacer dinamico el tablero  
 ![1 Dashboard_Excel](https://user-images.githubusercontent.com/82233779/203609094-27248492-cb8a-410f-babb-51c02e39ded2.PNG)
 
 
