@@ -22,7 +22,7 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 
 ### 📊 En Excel 
 
-Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinamicas y conexiones de informes para hacer dinamico el tablero  
+Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinámicas y conexiones de informes para hacer dinámico el tablero  
 ![1 Dashboard_Excel](https://user-images.githubusercontent.com/82233779/203609094-27248492-cb8a-410f-babb-51c02e39ded2.PNG)
 
 
