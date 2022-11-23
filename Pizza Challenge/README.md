@@ -29,6 +29,9 @@ Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utili
 
 ## 🐍 En Python 
 
+En proceso . . . 🐣
+
+
 
 
 [^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
