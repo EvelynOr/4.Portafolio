@@ -3,7 +3,7 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 #### Contenido 👩‍💻
 
-1. Pizza Challenge: competencia de Mavenanalytics para el análisis de datos para Plato's Pizza
+1. Pizza Challenge: competencia de Mavenanalytics para el análisis de datos de Plato's Pizza
 
 
 
