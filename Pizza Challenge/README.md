@@ -4,8 +4,8 @@
 + Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
 + Objetivo: Mejorar las operaciones del restaurante en 2016
 
--Se utilizo # Power BI | # Excel  | # Python | # SQL Server
--Nivel: basico-intermedio
+- Se utilizó  Power BI |  Excel  |  Python |  SQL Server
+- Nivel: basico-intermedio
 
 
 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI, se trabajó con toda la data. Se analizó a través de métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se proponen indicadores se seguimiento para los siguientes períodos.   
