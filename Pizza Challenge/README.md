@@ -1,8 +1,8 @@
 🍕🍕 Pizza Challenge: Competencia promovida por Mavenanalytics  https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 
--Análisis de datos realizado para un restaurante de pizza
--Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
--Objetivo: Mejorar las operaciones del restaurante
++ Análisis de datos realizado para un restaurante de pizza
+* Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
+- Objetivo: Mejorar las operaciones del restaurante
 
 -Se utilizo Excel | Power BI | Python | SQL Server
 -Nivel: basico-intermedio
