@@ -6,7 +6,11 @@ Tiene análisis de datos realizado para un restaurante de pizza
 
 Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 
+Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
 
+Objetivo: Mejorar las operaciones del restaurante
+
+------------------------------------------------------------------------------------
 
 Se utilizo Excel | Power BI | Python | SQL Server
 
