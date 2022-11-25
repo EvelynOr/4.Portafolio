@@ -1,4 +1,4 @@
-# 4.Portafolio [^1] 💼 
+# 💼 4.Portafolio [^1]  
 Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI - Excel - Python - SQL
 
 #### Contenido 👩‍💻
