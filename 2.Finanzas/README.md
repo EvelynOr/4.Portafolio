@@ -19,6 +19,8 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
  2.¿Dónde está la empresa viendo el mayor éxito (por país o región)?
  
  3.Producto y segmento en los que la empresa debe seguir centrando su inversión
+ 
+![Estrategico](https://user-images.githubusercontent.com/82233779/204106381-63697113-f8ac-4f8b-a637-974c9381c7db.PNG)
 
 
 #### Nivel Tactico
