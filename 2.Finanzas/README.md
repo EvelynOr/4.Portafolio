@@ -36,6 +36,8 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
   
  9. ¿Cuál es la demanda mensual esperada por producto?
   
+  ![Tactico](https://user-images.githubusercontent.com/82233779/204106397-58f0378c-0d3e-46c9-8baa-f032eb9a82b4.PNG)
+
 
 #### Nivel Operacional
 
@@ -45,6 +47,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
  
 12. ¿Cuál es la demanda de productos esperada por dia de la semana?
  
+![Operacional](https://user-images.githubusercontent.com/82233779/204106399-b471d698-d9d7-4fc0-825f-3f0e4d2c01a4.PNG)
 
 
 
