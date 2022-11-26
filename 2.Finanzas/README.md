@@ -30,9 +30,9 @@ Se trabajó con toda la data. El ejercicio original cubria unicamente el nivel e
 
   7. ¿Cuáles son las ganancias obtenidas por producto?
 
-  8. ¿Cuál es la cantidad de unidades vendidas por producto?
+  8. ¿Cuál es la cantidad de unidades vendidas segmento y producto?
   
-  9. ¿Cuál es la demanda mensualesperada por producto?
+  9. ¿Cuál es la demanda mensual esperada por producto?
 
 #### Nivel Operacional
 
@@ -40,9 +40,9 @@ Se trabajó con toda la data. El ejercicio original cubria unicamente el nivel e
  
  10. ¿Cuáles son los precios de fabricacion por producto?
  
- 11. ¿Cuál es la demanda de productos por dia de la semana?
+ 11. ¿Cuál es la demanda de productos esperada por dia de la semana?
  
- 12. ¿Cuál es la demanda esperada diaria por producto?
+
 
 
 
