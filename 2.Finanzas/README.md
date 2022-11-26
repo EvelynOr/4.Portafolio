@@ -13,7 +13,7 @@
 + Objetivo: Mejorar las operaciones la empresa
 
 
-- Se utilizó  Power BI |  Excel  |  Python |  SQL Server
+- Se utilizó  Power BI |  Excel  
 - Nivel: basico-intermedio
 
 
