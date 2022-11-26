@@ -1,19 +1,19 @@
 ### 💴 💰 2. Informe Financiero: de la guia de aprendizaje dada por learn.microsoft.com [^1] 
 
 + Análisis de datos realizado para una empresa ficticia 
-+ El ejercicio original realiza analisis para el nivel ejecutivo o estrategico, basado en tres preguntas. 
-+ Objetivo: Mejorar las operaciones la empresa
++ El ejercicio original realiza análisis para el nivel ejecutivo o estrátegico, basado en tres preguntas. 
++ Objetivo: Mejorar las operaciones de la empresa
 
 
 - Se utilizó  Power BI |  Excel  
-- Nivel: basico-intermedio
+- Nivel: básico-intermedio
 
 
 ### ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
 Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los niveles táctico y operacional.
 
-#### Nivel Estrategico
+#### Nivel Estrategico 
  1.Mes y año en los que se ha conseguido el mayor beneficio
   
  2.¿Dónde está la empresa viendo el mayor éxito (por país o región)?
