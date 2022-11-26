@@ -4,7 +4,6 @@
 + El ejercicio original realiza analisis para el nivel ejecutivo o estrategico, basado en tres preguntas. 
 + Objetivo: Mejorar las operaciones la empresa
 
-+-------------
 
 - Se utilizó  Power BI |  Excel  
 - Nivel: basico-intermedio
