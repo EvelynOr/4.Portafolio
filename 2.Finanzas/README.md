@@ -1,4 +1,4 @@
-### 💴 💰 2. Informe Financiero: de la guia de aprendizaje dada por learn.microsoft.com [^1] 
+### 💴 💰 2. Informe Financiero: de la guia de aprendizaje dada por Microsoft [^1] 
 
 + Análisis de datos realizado para una empresa ficticia 
 + El ejercicio original realiza análisis para el nivel ejecutivo o estrátegico, basado en tres preguntas. 
