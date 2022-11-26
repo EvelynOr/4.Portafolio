@@ -22,26 +22,26 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
 
 
 #### Nivel Tactico
-  4. ¿Que productos tienen el mayor costo (COGS)?
+ 4. ¿Que productos tienen el mayor costo (COGS)?
   
-  5. ¿Cuáles son los precios de fabricacion por segmento y producto?
+ 5. ¿Cuáles son los precios de fabricacion por segmento y producto?
 
-  6. ¿Cuál ha sido el comportamiento de los descuentos otorgados?
+ 6. ¿Cuál ha sido el comportamiento de los descuentos otorgados?
 
-  7. ¿Cuáles son las ganancias obtenidas por producto?
+ 7. ¿Cuáles son las ganancias obtenidas por producto?
 
-  8. ¿Cuál es la cantidad de unidades vendidas segmento y producto?
+ 8. ¿Cuál es la cantidad de unidades vendidas segmento y producto?
   
-  9. ¿Cuál es la demanda mensual esperada por producto?
+ 9. ¿Cuál es la demanda mensual esperada por producto?
   
 
 #### Nivel Operacional
 
- 10. ¿Cuáles son los costos (COGS) por producto?
+10. ¿Cuáles son los costos (COGS) por producto?
  
- 11. ¿Cuáles son los precios de fabricacion por producto?
+11. ¿Cuáles son los precios de fabricacion por producto?
  
- 12. ¿Cuál es la demanda de productos esperada por dia de la semana?
+12. ¿Cuál es la demanda de productos esperada por dia de la semana?
  
 
 
