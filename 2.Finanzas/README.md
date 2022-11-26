@@ -1,4 +1,4 @@
-### 🍕💴 💰 2. Informe Financiero: de la guia de aprendizaje dada por learn.microsoft.com [^2] 
+### 🍕💴 💰 2. Informe Financiero: de la guia de aprendizaje dada por learn.microsoft.com [^1] 
 
 + Análisis de datos realizado para una empresa ficticia 
 + Preguntas para el resumen ejecutivo: 
@@ -20,4 +20,4 @@
 
 
 
-[^1]2 Data: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-excel-stunning-report
+[^1]: Data: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-excel-stunning-report
