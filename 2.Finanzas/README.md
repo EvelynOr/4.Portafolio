@@ -13,7 +13,12 @@
 
 Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los niveles táctico y operacional.
 
-#### Nivel Estrategico 
+##### Actividades
+- Revisión de la data
+- Definición de métricas para los niveles táctico y operativo
+- Diagramación   
+
+#### Nivel Estrátegico 
  1.Mes y año en los que se ha conseguido el mayor beneficio
   
  2.¿Dónde está la empresa viendo el mayor éxito (por país o región)?
@@ -23,7 +28,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
 ![Estrategico](https://user-images.githubusercontent.com/82233779/204106381-63697113-f8ac-4f8b-a637-974c9381c7db.PNG)
 
 
-#### Nivel Tactico
+#### Nivel Táctico
  4. ¿Que productos tienen el mayor costo (COGS)?
   
  5. ¿Cuáles son los precios de fabricacion por segmento y producto?
