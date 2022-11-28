@@ -8,7 +8,7 @@
 - Nivel: basico-intermedio
 
 
-### ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
+### 1.1 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
 Se trabajó con toda la data. Se analizó a través de métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se dan algunas sugerencias e indicadores de seguimiento para los siguientes períodos.   
 
@@ -23,14 +23,14 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 ### 🧠 Análisis - Resultados 📝
 
 
-### 📊 En Excel 
+### 1.2 📊 En Excel 
 
 Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinámicas y conexiones de informes para hacer dinámico el tablero  
 ![1 Dashboard_Excel](https://user-images.githubusercontent.com/82233779/203609094-27248492-cb8a-410f-babb-51c02e39ded2.PNG)
 
 
 
-## 🐍 En Python 
+### 1.3 🐍 En Python 
 
 En proceso . . . 🐣
 
