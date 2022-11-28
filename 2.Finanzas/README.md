@@ -55,6 +55,6 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
 ![Operacional](https://user-images.githubusercontent.com/82233779/204106399-b471d698-d9d7-4fc0-825f-3f0e4d2c01a4.PNG)
 
 
-
+### 🧠 Análisis - Resultados 📝
 
 [^1]: Data: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-excel-stunning-report
