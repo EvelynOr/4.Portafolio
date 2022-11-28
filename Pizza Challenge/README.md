@@ -17,9 +17,7 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 - Integración de la data con SQL Server
 - Definición de métricas por tipo de analisis realizado
 - Diagramación 
-- Funciones utilizadas en el proceso: 
-
-  Medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario  
+- Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario  
 
 ![PBI](https://user-images.githubusercontent.com/82233779/203619328-de08192d-a6db-435e-a570-4244fc1859b4.png)
 
