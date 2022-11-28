@@ -24,7 +24,7 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 ### 🧠 Análisis - Resultados 📝
 
 
-### Recursos utilizados: Información general sobre DAX, https://learn.microsoft.com/es-es/dax/dax-overview
+#### Recursos utilizados:  Información general sobre DAX, https://learn.microsoft.com/es-es/dax/dax-overview
 
 
 
