@@ -30,6 +30,10 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 ### 🧠 Análisis - Resultados 📝
 
 
+### Recursos utilizados: Información general sobre DAX, https://learn.microsoft.com/es-es/dax/dax-overview
+
+
+
 ### 1.2 📊 En Excel 
 
 Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinámicas y conexiones de informes para hacer dinámico el tablero  
