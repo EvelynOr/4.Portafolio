@@ -20,6 +20,9 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 
 ![PBI](https://user-images.githubusercontent.com/82233779/203619328-de08192d-a6db-435e-a570-4244fc1859b4.png)
 
+### 🧠 Análisis - Resultados 📝
+
+
 ### 📊 En Excel 
 
 Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinámicas y conexiones de informes para hacer dinámico el tablero  
