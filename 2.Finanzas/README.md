@@ -28,7 +28,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
 ![Estrategico](https://user-images.githubusercontent.com/82233779/204106381-63697113-f8ac-4f8b-a637-974c9381c7db.PNG)
 
 
-#### Nivel Táctico
+#### Nivel Táctico (agregado)
  4. ¿Que productos tienen el mayor costo (COGS)?
   
  5. ¿Cuáles son los precios de fabricacion por segmento y producto?
@@ -44,7 +44,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
   ![Tactico](https://user-images.githubusercontent.com/82233779/204106397-58f0378c-0d3e-46c9-8baa-f032eb9a82b4.PNG)
 
 
-#### Nivel Operacional
+#### Nivel Operacional (agregado)
 
 10. ¿Cuáles son los costos (COGS) por producto?
  
