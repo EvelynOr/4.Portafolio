@@ -25,6 +25,7 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 
 ### 🧠 Análisis - Resultados 📝
 
+En proceso 🐣
 
 
 
@@ -48,6 +49,7 @@ Se trabajó con la misma muestra utilizada en Excel, n =  500
 
 ### 🧠 Análisis - Resultados 📝
 
+En proceso 🐣
 
 #### Recursos utilizados:   El EDA (Exploratory Data Analysis - Análisis Exploratio de Datos) se realizó con Pandas Profiling. Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código [^2]. 
 
