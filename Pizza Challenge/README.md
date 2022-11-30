@@ -49,9 +49,10 @@ Se trabajó con la misma muestra utilizada en Excel, n =  500
 ### 🧠 Análisis - Resultados 📝
 
 
-#### Recursos utilizados:
+#### Recursos utilizados:   El EDA (Exploratory Data Analysis - Análisis Exploratio de Datos) se realizó con Pandas Profiling. Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código [^2]. 
 
 
 
 
 [^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
+[^2]: https://pandas-profiling.ydata.ai/docs/master/index.html
