@@ -7,6 +7,7 @@
 
 - Se utilizó  Power BI |  Excel  |  Python |  SQL Server
 - Nivel: basico-intermedio
+- Reportet: https://app.powerbi.com/groups/me/reports/5214dc99-4bdb-4c3b-b296-58c4d0733312/ReportSection41d8ebf32b21398ea8a0 
 
 
 ### 1.1 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
