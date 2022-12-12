@@ -43,7 +43,7 @@ Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utili
 
 
 
-### 1.3 🐍 En Python se realizo un EDA con Pandas Profiling 
+### 1.3 🐍 En Python se realizó un EDA con Pandas Profiling 
 Se trabajó con la misma muestra utilizada en Excel, n =  500
 
 ![image](https://user-images.githubusercontent.com/82233779/204862071-42c63e17-edff-4489-aeed-89bf61edaefb.png)
