@@ -17,7 +17,7 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 ##### Actividades
 - Revisión de la data y diccionario
 - Integración de la data con SQL Server
-- Definición de métricas por tipo de analisis realizado
+- Definición de métricas por tipo de análisis realizado
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
   
