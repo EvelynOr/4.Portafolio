@@ -43,14 +43,14 @@ Se trabajó con la misma muestra utilizada en Excel, n =  500
 ![image](https://user-images.githubusercontent.com/82233779/204862071-42c63e17-edff-4489-aeed-89bf61edaefb.png)
 
 
-### 🧠 Análisis - Resultados 📝
-
-En proceso 🐣
-
 #### Recursos utilizados:   
 El EDA (Exploratory Data Analysis - Análisis Exploratio de Datos) se realizó con Pandas Profiling [^2]. 
 
 
+
+## 🧠 Análisis - Resultados 📝
+
+En proceso 🐣
 
 
 [^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
