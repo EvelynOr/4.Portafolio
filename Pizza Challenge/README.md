@@ -65,9 +65,9 @@ Se encuentra dentro de las ciudades más ricas de los EE.UU. Su economía depend
 Las estimaciones del United States Census Bureau reporta que New Jersey tiene 555 ciudades y una población de 9,203,733.
 Al 2020, el ingreso promedio del núcleo familiar era de $ 85,245 y Ingreso per cápita: $44,153.
 El 14,8 % de los hogares de Nueva Jersey son hogares de altos ingresos que ganan más de $200.000 al año. En cuanto al ingreso familiar promedio en Nueva Jersey por edad del jefe de hogar se reportan los siguientes: 
-Jefe de hogar menor de 25 años $40,289
-Jefe de hogar 25 a 44 años $92,514
-Jefe de hogar 45 a 64 años $104,297
+Jefe de hogar menor de 25 años $40,289; 
+Jefe de hogar 25 a 44 años $92,514; 
+Jefe de hogar 45 a 64 años $104,297, y 
 Jefe de hogar de 65 años o más $57,159
 
 Al 2022 Las cinco ciudades con más ingreso medio son: 
