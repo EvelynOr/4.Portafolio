@@ -74,13 +74,22 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 
 ### Tipo de mercado
 
-Tipo de mercado al que pertenece la pizza es el de competencia monopolística, el poder de monopolio es limitado; 
--En este tipo de mercado los productos están diferenciados, pero que son fácilmente sustituibles unos por otros, pero no sustitutivos perfectos.
--Hay libertad de entrada y de salida, es relativamente fácil para las nuevas empresas entrar en el mercado con su propia marca del producto y para las existentes abandonarlo si sus productos dejan de ser rentables.
--La curva de demanda, aunque tiene pendiente negativa, es bastante elástica.
--Por una u otra razón, los consumidores consideran que la marca de cada una es diferente del resto. La diferencia se halla, en parte, en el sabor, en parte en la consistencia y, en parte, en la reputación, es decir, la imagen (verdadera o falsa) que tenga el consumidor de la eficacia relativa de los bienes ofrecidos, por lo que podrían pagar más (R. Pindyck y D. Rubinfeld,  2009).
++ Tipo de mercado al que pertenece la pizza es el de competencia monopolística, el poder de monopolio es limitado.
++ En este tipo de mercado los productos están diferenciados, pero que son fácilmente sustituibles unos por otros, pero no sustitutivos perfectos.
++ Hay libertad de entrada y de salida, es relativamente fácil para las nuevas empresas entrar en el mercado con su propia marca del producto y para las existentes abandonarlo si sus productos dejan de ser rentables.
++ La curva de demanda, aunque tiene pendiente negativa, es bastante elástica.
++ Por una u otra razón, los consumidores consideran que la marca de cada una es diferente del resto. La diferencia se halla, en parte, en el sabor, en parte en la consistencia y, en parte, en la reputación, es decir, la imagen (verdadera o falsa) que tenga el consumidor de la eficacia relativa de los bienes ofrecidos, por lo que podrían pagar más (R. Pindyck y D. Rubinfeld,  2009).
 
 ### Conclusiones - Recomendaciones 
+
+1. Aprovechar el ingreso promedio que registra el Estado, con un poder adquisitivo alto, derivado de las actividades económicas que tiene.
+2. Indagar la cantidad de restaurantes que tienen las ciudades con mayores ingresos, en caso ese sea el mercado al que se quieren dirigir.
+3.	Ofrecer un producto diferenciado para ciudades con menores ingreso.
+4.	Realizar pruebas de mercado y obtener resultados más cercanos y valiosos en términos cualitativos, y validar si los gustos y preferencias en la demanda de pizza han variado o se han mantenido, en función de los productos que ofrecen las mayores cadenas de pizzerías en los EE.UU.
+5.	Ofrecer ofertas o compras previas a los días que se registran en días festivos nacionales o que registran una mayor demanda.
+
+
+
 
 [^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 [^2]: Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código. https://pandas-profiling.ydata.ai/docs/master/index.html
