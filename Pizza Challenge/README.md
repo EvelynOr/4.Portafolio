@@ -88,7 +88,7 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 + Por una u otra razón, los consumidores consideran que la marca de cada una es diferente del resto. La diferencia se halla, en parte, en el sabor, en parte en la consistencia y, en parte, en la reputación, es decir, la imagen (verdadera o falsa) que tenga el consumidor de la eficacia relativa de los bienes ofrecidos, por lo que podrían pagar más (R. Pindyck y D. Rubinfeld,  2009).
 
 ### Conclusiones - Recomendaciones 
-
+En proceso 🐣🐣
 1. Aprovechar el ingreso promedio que registra el Estado, con un poder adquisitivo alto, derivado de las actividades económicas que tiene.
 2. Indagar la cantidad de restaurantes que tienen las ciudades con mayores ingresos, en caso ese sea el mercado al que se quieren dirigir.
 3.	Ofrecer un producto diferenciado para ciudades con menores ingreso.
