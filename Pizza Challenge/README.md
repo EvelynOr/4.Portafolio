@@ -50,7 +50,7 @@ Se trabajó con la misma muestra utilizada en Excel, n =  500
 En proceso 🐣🐣
 
 
-# 🧠 Análisis - Resultados 📝
+# 🧠 2. Análisis - Resultados 📝
 
 ## Mercado de la pizza
 ### Estados Unidos
