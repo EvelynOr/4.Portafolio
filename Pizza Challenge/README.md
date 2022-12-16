@@ -70,7 +70,7 @@ Roseland $142,776
 New Providence $149,718
 Little Silver  $202,875
 
-A febrero de 2021 se estima que habían 2,00 pizzerias en New Jersey, con 3.54 pizzerías per cápita. 
+A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 pizzerías per cápita.  
 
 ### Tipo de mercado
 
