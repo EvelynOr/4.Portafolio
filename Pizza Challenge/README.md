@@ -9,6 +9,8 @@
 - Nivel: basico-intermedio
 - Reporte: https://app.powerbi.com/groups/me/reports/5214dc99-4bdb-4c3b-b296-58c4d0733312/ReportSection41d8ebf32b21398ea8a0 
 
+![PizzaSales](https://user-images.githubusercontent.com/82233779/208166141-097b15bf-ba42-4504-822a-466764425c60.jpg)
+
 
 ### 1.1 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
