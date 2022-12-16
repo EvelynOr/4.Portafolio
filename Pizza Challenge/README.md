@@ -52,6 +52,35 @@ El número de restaurantes de pizzerías pasó de 71,857 a 75,117, del 2012 al 2
 Entre las tres mayores cadenas de pizzerías están: Pizza Hut es la más antigua (fundada en 1958 en Wichita, Kansas), seguida de Domino’s (1960 en Ypsilanti, Michigan) y Papa John’s (1984 en Jeffersonville, Indiana, a las afueras de Louisville)
 Los 5 días de mayor venta de pizza son: el domingo del Super Bowl, la víspera de Año Nuevo, Halloween, la víspera de Acción de Gracias y el día de Año Nuevo
 
+### New Jersey
+
+Se encuentra dentro de las ciudades más ricas de los EE.UU. Su economía depende principalmente de su industria manufacturera, farmacéutica, agentes químicos, turismo y de la prestación de servicios de transporte. Es uno de los estados más industrializados del país. 
+Las estimaciones del United States Census Bureau reporta que New Jersey tiene 555 ciudades y una población de 9,203,733.
+Al 2020, el ingreso promedio del núcleo familiar era de $ 85,245 y Ingreso per cápita: $44,153.
+El 14,8 % de los hogares de Nueva Jersey son hogares de altos ingresos que ganan más de $200.000 al año. En cuanto al ingreso familiar promedio en Nueva Jersey por edad del jefe de hogar se reportan los siguientes: 
+Jefe de hogar menor de 25 años $40,289
+Jefe de hogar 25 a 44 años $92,514
+Jefe de hogar 45 a 64 años $104,297
+Jefe de hogar de 65 años o más $57,159
+
+Al 2022 Las cinco ciudades con más ingreso medio son: 
+Ramsey $156,058
+Haddonfield $151,579
+Roseland $142,776
+New Providence $149,718
+Little Silver  $202,875
+
+A febrero de 2021 se estima que habían 2,00 pizzerias en New Jersey, con 3.54 pizzerías per cápita. 
+
+### Tipo de mercado
+
+Tipo de mercado al que pertenece la pizza es el de competencia monopolística, el poder de monopolio es limitado; 
+-En este tipo de mercado los productos están diferenciados, pero que son fácilmente sustituibles unos por otros, pero no sustitutivos perfectos.
+-Hay libertad de entrada y de salida, es relativamente fácil para las nuevas empresas entrar en el mercado con su propia marca del producto y para las existentes abandonarlo si sus productos dejan de ser rentables.
+-La curva de demanda, aunque tiene pendiente negativa, es bastante elástica.
+-Por una u otra razón, los consumidores consideran que la marca de cada una es diferente del resto. La diferencia se halla, en parte, en el sabor, en parte en la consistencia y, en parte, en la reputación, es decir, la imagen (verdadera o falsa) que tenga el consumidor de la eficacia relativa de los bienes ofrecidos, por lo que podrían pagar más (R. Pindyck y D. Rubinfeld,  2009).
+
+### Conclusiones - Recomendaciones 
 
 [^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 [^2]: Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código. https://pandas-profiling.ydata.ai/docs/master/index.html
