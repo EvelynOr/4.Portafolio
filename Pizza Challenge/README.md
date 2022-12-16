@@ -68,7 +68,7 @@ El 14,8 % de los hogares de Nueva Jersey son hogares de altos ingresos que ganan
 Jefe de hogar menor de 25 años $40,289; 
 Jefe de hogar 25 a 44 años $92,514; 
 Jefe de hogar 45 a 64 años $104,297, y 
-Jefe de hogar de 65 años o más $57,159
+Jefe de hogar de 65 años o más $57,159.
 
 Al 2022 Las cinco ciudades con más ingreso medio son: 
 Ramsey $156,058
