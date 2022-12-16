@@ -89,7 +89,7 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 
 ### Conclusiones - Recomendaciones 
 En proceso 🐣🐣
-1. Aprovechar el ingreso promedio que registra el Estado, con un poder adquisitivo alto, derivado de las actividades económicas que tiene.
+1. Aprovechar el ingreso promedio que registra el Estado, con un poder adquisitivo alto, derivado de las actividades económicas que tiene el Estado.
 2. Indagar la cantidad de restaurantes que tienen las ciudades con mayores ingresos, en caso ese sea el mercado al que se quieren dirigir.
 3.	Ofrecer un producto diferenciado para ciudades con menores ingreso.
 4.	Realizar pruebas de mercado y obtener resultados más cercanos y valiosos en términos cualitativos, y validar si los gustos y preferencias en la demanda de pizza han variado o se han mantenido, en función de los productos que ofrecen las mayores cadenas de pizzerías en los EE.UU.
