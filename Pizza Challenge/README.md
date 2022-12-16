@@ -43,6 +43,10 @@ Se trabajó con la misma muestra utilizada en Excel, n =  500
 ![image](https://user-images.githubusercontent.com/82233779/204862071-42c63e17-edff-4489-aeed-89bf61edaefb.png)
 
 
+### 1.4 Pronóstico de ventas 
+En proceso 🐣🐣
+
+
 # 🧠 Análisis - Resultados 📝
 
 ## Mercado de la pizza
