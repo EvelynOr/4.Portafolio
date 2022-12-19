@@ -1,7 +1,6 @@
 ### 🧾💶 3. Informe de Ventas Minoristas [^1]
 
-+ Análisis de datos de las ventas minoristas de los artículos vendidos en varias tiendas y distritos.
-+ El ejercicio original realiza análisis para el nivel ejecutivo o estrátegico, basado en tres preguntas. 
++ Análisis de datos de las ventas minoristas en varias tiendas y distritos.
 + Objetivo: Analizar el desempeño de la empresa
 
 
