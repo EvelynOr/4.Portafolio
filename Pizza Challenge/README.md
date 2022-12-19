@@ -52,7 +52,7 @@ En proceso 🐣🐣
 
 # 🧠 2. Análisis - Resultados 📝
 
-## Mercado de la pizza
+## 2.1 Mercado de la pizza
 ### Estados Unidos
 
 El número de restaurantes de pizzerías pasó de 71,857 a 75,117, del 2012 al 2022. Los consumidores gastaron en el 2020 más de $20 mil millones en el QSR pizza para llevar y otros $14 mil millones en entrega de pizza.
@@ -91,7 +91,7 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 ### Elasticidad
 
 
-## Conclusiones - Recomendaciones 
+## 2.2 Conclusiones - Recomendaciones 
 En proceso 🐣🐣
 1. Aprovechar el ingreso promedio que registra el Estado, con un poder adquisitivo alto, derivado de las actividades económicas que tiene el Estado.
 2. Indagar la cantidad de restaurantes que tienen las ciudades con mayores ingresos, en caso ese sea el mercado al que se quieren dirigir.
