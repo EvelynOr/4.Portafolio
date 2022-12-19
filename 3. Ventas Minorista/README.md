@@ -10,12 +10,14 @@
 
 ## ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
-Se trabajó con toda la data. Para ampliar el ejercicio se realizo un analisis por tienda, ventas anuales y ventas por tipo de categoría.
+Se trabajó con toda la data. Para ampliar el ejercicio se realizo un análisis por tienda, ventas anuales y ventas por tipo de categoría.
 
 ##### Actividades
 - Revisión de la data
 - Definición de métricas 
 - Diagramación   
+- Formulación de preguntas guía para cada reporte 
+
 
 #### Información general de las tiendas  
 
