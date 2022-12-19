@@ -15,8 +15,8 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 ##### Actividades
 - Revisión de la data
 - Definición de métricas 
-- Diagramación   
 - Formulación de preguntas guía para cada reporte 
+- Diagramación  
 
 
 #### Información general de las tiendas  
