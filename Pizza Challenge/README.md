@@ -81,7 +81,7 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 
 ### Tipo de mercado
 
-+ Tipo de mercado al que pertenece la pizza es el de competencia monopolística, el poder de monopolio es limitado.
++ El tipo de mercado al que pertenece la pizza es el de competencia monopolística, el poder de monopolio es limitado.
 + En este tipo de mercado los productos están diferenciados, pero que son fácilmente sustituibles unos por otros, pero no sustitutivos perfectos.
 + Hay libertad de entrada y de salida, es relativamente fácil para las nuevas empresas entrar en el mercado con su propia marca del producto y para las existentes abandonarlo si sus productos dejan de ser rentables.
 + La curva de demanda, aunque tiene pendiente negativa, es bastante elástica.
@@ -89,7 +89,7 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 
 
 ### Elasticidad
-
+En proceso 🐣🐣
 
 ## 2.2 Conclusiones - Recomendaciones 
 En proceso 🐣🐣
