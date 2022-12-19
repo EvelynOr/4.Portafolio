@@ -40,7 +40,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 6.	Bottom 3 de Ventas por: grupo, segmento y categoría
 
 
-![Ventas](https://user-images.githubusercontent.com/82233779/208508340-54253dab-c416-4270-a58b-e51f4a0a9b44.jpeg)
+![Ventas](https://user-images.githubusercontent.com/82233779/208550887-a0837b91-6236-4fbd-b174-f815d0c4e283.jpeg)
 
 
 #### Ventas por Distrito
