@@ -28,7 +28,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 6.	Total de tiendas por administrador 
 
 
-![Stores](https://user-images.githubusercontent.com/82233779/208508154-b7efe343-4b30-4ce5-bd6b-4c644fe276ed.jpeg)
+![Stores](https://user-images.githubusercontent.com/82233779/208550701-7f59b5da-b9aa-4f79-a71d-df91bc1d0ed2.jpeg)
 
 
 #### Ventas anuales 
@@ -52,7 +52,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 6.	Top 10 compradores
 
 
-![Ventas Distrito](https://user-images.githubusercontent.com/82233779/208508413-c507447a-1039-48e8-ace4-25d2d3ca2e10.jpeg)
+![Ventas Distrito](https://user-images.githubusercontent.com/82233779/208550768-7087b59b-3729-4cb8-99d0-9b7047103308.jpeg)
 
 
 #### Ventas por categoría 
