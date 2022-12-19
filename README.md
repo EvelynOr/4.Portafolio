@@ -7,7 +7,7 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 2. Informe Financiero: Resumen Ejecutivo de la guia de aprendizaje de Microsoft, se amplió el ejercicio al agregar al informe el nivel táctico y el nivel operacional.
 
-
+3. Informe de Ventas Minoristas: Análisis de venta directa, para informes y paneles empresariales.
 
 
 
