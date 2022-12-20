@@ -90,7 +90,7 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 
 ### Elasticidad
 En proceso 🐣🐣
-
+La elasticidad precio de la demanda de la pizza podria definirse como elástica
 ## 2.2 Conclusiones - Recomendaciones 
 En proceso 🐣🐣
 1. Aprovechar el ingreso promedio que registra el Estado, con un poder adquisitivo alto, derivado de las actividades económicas que tiene el Estado.
