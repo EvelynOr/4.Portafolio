@@ -100,12 +100,12 @@ La elasticidad precio de la demanda de la pizza, sería relativamente elástica 
 - Otros
 
 ## 2.2 Conclusiones - Recomendaciones 
-En proceso 🐣🐣
-1. Aprovechar el ingreso promedio que registra el Estado, con un poder adquisitivo alto, derivado de las actividades económicas que tiene el Estado.
+1. Aprovechar el ingreso que registra el Estado, ubicándolo con con un poder adquisitivo alto, derivado de las actividades económicas.
 2. Indagar la cantidad de restaurantes que tienen las ciudades con mayores ingresos, en caso ese sea el mercado al que se quieren dirigir.
-3.	Ofrecer un producto diferenciado para ciudades con menores ingreso.
-4.	Realizar pruebas de mercado y obtener resultados más cercanos y valiosos en términos cualitativos, y validar si los gustos y preferencias en la demanda de pizza han variado o se han mantenido, en función de los productos que ofrecen las mayores cadenas de pizzerías en los EE.UU.
-5.	Ofrecer ofertas o compras previas a los días que se registran en días festivos nacionales o que registran una mayor demanda.
+3. Ofrecer un producto diferenciado para ciudades con menores ingresos.
+4. Realizar pruebas de mercado y obtener resultados más cercanos y valiosos en términos cualitativos, y validar si los gustos y preferencias en la demanda de pizza han variado o se han mantenido, en función de los productos que ofrecen las mayores cadenas de pizzerías en los EE.UU.
+5. Ofrecer ofertas o compras previas a los días festivos nacionales/locales o que registran una mayor demanda.
+6. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos.
 
 
 
