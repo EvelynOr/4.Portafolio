@@ -89,8 +89,15 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 
 
 ### Elasticidad
-En proceso 🐣🐣
-La elasticidad precio de la demanda de la pizza podria definirse como elástica
+La elasticidad precio de la demanda de la pizza, es decir, variaciones pequeñas en el precio generan un mayor cambio en la cantidad demandada de pizza, sería relativamente elástica (E > 1).
+
+### Algunos determinantes de la demanda o cambios en la demanda
+- Bienes sustitutos
+- Gustos y preferencias de los consumidores
+- Número de compradores
+- Nivel de ingresos
+- Aspectos culturaels 
+
 ## 2.2 Conclusiones - Recomendaciones 
 En proceso 🐣🐣
 1. Aprovechar el ingreso promedio que registra el Estado, con un poder adquisitivo alto, derivado de las actividades económicas que tiene el Estado.
