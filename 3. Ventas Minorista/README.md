@@ -61,7 +61,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 3.	Margen bruto
 4.	Comprador
 
-![Ventas Categoria](https://user-images.githubusercontent.com/82233779/208508536-e959438f-156f-48fb-ba57-d6698da607a7.jpeg)
+![Ventas Categoria](https://user-images.githubusercontent.com/82233779/208555493-8dcd499e-3d91-424e-9fd4-27016be92f80.jpeg)
 
 
 
