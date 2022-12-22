@@ -112,5 +112,5 @@ La elasticidad precio de la demanda de la pizza, sería relativamente elástica 
 
 [^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 [^2]: Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código. https://pandas-profiling.ydata.ai/docs/master/index.html
-[^3]: https ://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com
+[^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado.Fuentes: https://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com
 
