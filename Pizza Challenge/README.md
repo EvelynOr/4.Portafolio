@@ -107,7 +107,7 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 3. Ofrecer un producto diferenciado para ciudades con menores ingresos.
 4. Realizar pruebas de mercado y obtener resultados más cercanos y valiosos en términos cualitativos, y validar si los gustos y preferencias en la demanda de pizza han variado o se han mantenido, en función de los productos que ofrecen las mayores cadenas de pizzerías en los EE.UU.
 5. Ofrecer ofertas o compras previas a los días festivos nacionales/locales o que registran una mayor demanda.
-6. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos.
+6. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos, ya que variaciones en el precio afecta los ingresos.
 7. Ofrecer tipos de pizza que se identifiquen con la cultura culinaria del Estado.
 
 
