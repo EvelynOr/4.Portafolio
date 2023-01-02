@@ -101,19 +101,41 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 - Aspectos culturaels 
 - Otros
 
-## 2.2 Conclusiones - Recomendaciones 
+## 2.2  Recomendaciones 
+
+#### Operativas
 1. Aprovechar el ingreso que registra el Estado, ubicándolo con un poder adquisitivo alto, derivado de las actividades económicas.
 2. Indagar la cantidad de restaurantes que tienen las ciudades con mayores ingresos, en caso ese sea el mercado al que se quieren dirigir.
 3. Ofrecer un producto diferenciado para ciudades con menores ingresos.
 4. Realizar pruebas de mercado y obtener resultados más cercanos y valiosos en términos cualitativos, y validar si los gustos y preferencias en la demanda de pizza han variado o se han mantenido, en función de los productos que ofrecen las mayores cadenas de pizzerías en los EE.UU.
 5. Ofrecer ofertas o compras previas a los días festivos nacionales/locales o que registran una mayor demanda.
-6. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos, ya que variaciones en el precio afecta los ingresos.
-7. Ofrecer tipos de pizza que se identifiquen con la cultura culinaria del Estado.
+6. Ofrecer tipos de pizza que se identifiquen con la cultura culinaria del Estado u otras alternativas como veganos/vegetarianos/bajas calorías.
+7. Llamar la atención sobre los artículos de alto beneficio en el menú con fotos o leyendas.
+8. Armar combinaciones de productos y paquetes que aumenten el precio por cliente y los márgenes generales.
+9. Agregar asientos al aire libre.
+
+#### Administrativas
+7. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos, ya que variaciones en el precio afecta los ingresos.
+8. Examine el costo de cada pizza y determinar su rentabilidad
+9. Ofrecer valor:
++ generar lealtad recompensando la frecuencia (tarjetas perforadas, sistemas de puntos o una aplicación de fidelización completa).
++ reducir y optimizar el menú para entrega y comida para llevar
++ la ausencia de contacto es muy importante y existirá de forma permanente
++ chatbots para acelerar el proceso de pedido digital y ayudar a los clientes en las redes sociales
+10. Mejorar su posicionamiento: mantener contacto con los clientes, ofréceles valor por su dinero,  retribuir a la comunidad.
+11. Mantenerse al dia con las tendencias como:
++  the virtual or ghost kitchens únicamente para la entrega  
++  repensar cuánto espacio físico necesitan realmente
++  las cloud kitchens para minimizar los costos generales y mejorar la logística
++  robots de servicio de alimentos
++  máquinas-robots para hacer pizzas, se encarga de todo menos de hacer la masa 
++  actualizarse con reportes de la industria https://www.360researchreports.com/enquiry/request-sample/20996313 o estudios especificos https://www.proquest.com/docview/1860284813 
+
 
 
 
 
 [^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 [^2]: Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código. https://pandas-profiling.ydata.ai/docs/master/index.html
-[^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado.Fuentes: R. Pindyck y D. Rubinfeld,  2009; https://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com; https://www.forbes.com/
+[^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado.Fuentes: R. Pindyck y D. Rubinfeld,  2009; https://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com; https://www.forbes.com/; https://www.pmq.com; https://www.proquest.com
 
