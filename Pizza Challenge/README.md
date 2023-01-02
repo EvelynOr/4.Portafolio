@@ -101,7 +101,7 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 - Aspectos culturaels 
 - Otros
 
-## 2.2  Recomendaciones 
+## 📍 2.2  Recomendaciones 
 
 #### Operativas
 1. Aprovechar el ingreso que registra el Estado, ubicándolo con un poder adquisitivo alto, derivado de las actividades económicas.
