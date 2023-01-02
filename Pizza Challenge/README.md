@@ -91,6 +91,8 @@ A febrero de 2021 se estima que había 2,00 pizzerías en New Jersey, con 3.54 p
 ### Elasticidad
 La elasticidad precio de la demanda de la pizza, sería relativamente elástica (E > 1). Es decir, variaciones pequeñas en el precio generan un mayor cambio en la cantidad demandada de pizza.
 
+Para el 2017 Forbes reporta que el precio medio de una pizza grande de queso es de  US$ 11.00.
+
 ### Algunos determinantes de la demanda o cambios en la demanda
 - Bienes sustitutos
 - Gustos y preferencias de los consumidores
@@ -112,5 +114,5 @@ La elasticidad precio de la demanda de la pizza, sería relativamente elástica 
 
 [^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 [^2]: Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código. https://pandas-profiling.ydata.ai/docs/master/index.html
-[^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado.Fuentes: https://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com
+[^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado.Fuentes: https://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com; https://www.forbes.com/
 
