@@ -122,7 +122,7 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 + reducir y optimizar el menú para entrega y comida para llevar
 + la ausencia de contacto es muy importante y existirá de forma permanente
 + chatbots para acelerar el proceso de pedido digital y ayudar a los clientes en las redes sociales
-10. Mejorar su posicionamiento: mantener contacto con los clientes, ofréceles valor por su dinero,  retribuir a la comunidad.
+10. Mejorar su posicionamiento: mantener contacto con los clientes y retribuir a la comunidad.
 11. Mantenerse al dia con las tendencias como:
 +  the virtual or ghost kitchens únicamente para la entrega  
 +  repensar cuánto espacio físico necesitan realmente
