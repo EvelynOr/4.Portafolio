@@ -72,13 +72,19 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
     
  ##### Nivel Táctico (agregado)
  4. ¿Que productos tienen el mayor costo (COGS)?
+    
+    Paseo, VTT y Amarilla
   
  5. ¿Cuáles son los precios de fabricacion por segmento y producto?
 
  6. ¿Cuál ha sido el comportamiento de los descuentos otorgados?
 
+    Se han dato mas descuentos en el producto Paseo, Velo y VTT
+    
  7. ¿Cuáles son las ganancias obtenidas por producto?
 
+    En orden de importancia: Paseo, VTT y Amarilla
+    
  8. ¿Cuál es la cantidad de unidades vendidas segmento y producto?
   
  9. ¿Cuál es la demanda mensual esperada por producto?
