@@ -58,11 +58,11 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
 # 🧠 Análisis - Resultados 📝
 
 ##### Nivel Estrátegico 
- 1.Mes y año en los que se ha conseguido el mayor beneficio
+ 1. Mes y año en los que se ha conseguido el mayor beneficio
   
- 2.¿Dónde está la empresa viendo el mayor éxito (por país o región)?
+ 2. ¿Dónde está la empresa viendo el mayor éxito (por país o región)?
  
- 3.Producto y segmento en los que la empresa debe seguir centrando su inversión
+ 3. Producto y segmento en los que la empresa debe seguir centrando su inversión
  
  ##### Nivel Táctico (agregado)
  4. ¿Que productos tienen el mayor costo (COGS)?
