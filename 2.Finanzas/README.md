@@ -59,12 +59,15 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
 
 ##### Nivel Estrátegico 
  1. Mes y año en los que se ha conseguido el mayor beneficio
+    
     En diciembre de 2014
     
  2. ¿Dónde está la empresa viendo el mayor éxito (por país o región)?
+    
     En Europa, Francia y Alemania
     
  3. Producto y segmento en los que la empresa debe seguir centrando su inversión
+    
     En productos de Paseo, en los segmentos de Pequeña empresa y Administración Pública
     
  ##### Nivel Táctico (agregado)
