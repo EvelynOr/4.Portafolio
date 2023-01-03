@@ -55,6 +55,34 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
 ![Operacional](https://user-images.githubusercontent.com/82233779/204106399-b471d698-d9d7-4fc0-825f-3f0e4d2c01a4.PNG)
 
 
-### 🧠 Análisis - Resultados 📝
+# 🧠 Análisis - Resultados 📝
+
+##### Nivel Estrátegico 
+ 1.Mes y año en los que se ha conseguido el mayor beneficio
+  
+ 2.¿Dónde está la empresa viendo el mayor éxito (por país o región)?
+ 
+ 3.Producto y segmento en los que la empresa debe seguir centrando su inversión
+ 
+ ##### Nivel Táctico (agregado)
+ 4. ¿Que productos tienen el mayor costo (COGS)?
+  
+ 5. ¿Cuáles son los precios de fabricacion por segmento y producto?
+
+ 6. ¿Cuál ha sido el comportamiento de los descuentos otorgados?
+
+ 7. ¿Cuáles son las ganancias obtenidas por producto?
+
+ 8. ¿Cuál es la cantidad de unidades vendidas segmento y producto?
+  
+ 9. ¿Cuál es la demanda mensual esperada por producto?
+ 
+ ##### Nivel Operacional (agregado)
+
+10. ¿Cuáles son los costos (COGS) por producto?
+ 
+11. ¿Cuáles son los precios de fabricacion por producto?
+ 
+12. ¿Cuál es la demanda de productos esperada por dia de la semana?
 
 [^1]: Data: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-excel-stunning-report
