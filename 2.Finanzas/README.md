@@ -1,4 +1,4 @@
-### 💴 💰 2. Informe Financiero: de la guia de aprendizaje dada por Microsoft [^1] 
+### 💴 💰 2. Informe Financiero [^1] 
 
 + Análisis de datos realizado para una empresa ficticia 
 + El ejercicio original realiza análisis para el nivel ejecutivo o estrátegico, basado en tres preguntas. 
@@ -97,4 +97,4 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
  
 12. ¿Cuál es la demanda de productos esperada por dia de la semana?
 
-[^1]: Data: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-excel-stunning-report
+[^1]: De la guia de aprendizaje dada por Microsoft. Data: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-excel-stunning-report
