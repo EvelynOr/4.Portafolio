@@ -50,12 +50,14 @@ Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utili
 ![1 Dashboard_Excel](https://user-images.githubusercontent.com/82233779/203609094-27248492-cb8a-410f-babb-51c02e39ded2.PNG)
 
 
+#
 
 ### 1.3 🐍 En Python se realizó un EDA (Exploratory Data Analysis - Análisis Exploratio de Datos) con Pandas Profiling [^2]
 Se trabajó con la misma muestra utilizada en Excel, n =  500
 
 ![image](https://user-images.githubusercontent.com/82233779/204862071-42c63e17-edff-4489-aeed-89bf61edaefb.png)
 
+#
 
 ### 1.4 Pronóstico de ventas 
 En proceso 🐣🐣
