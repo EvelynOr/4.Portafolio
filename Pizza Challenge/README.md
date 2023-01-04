@@ -26,6 +26,8 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 
  + Informe Táctico
 
+![image](https://user-images.githubusercontent.com/82233779/210622302-3e8e20d8-6d49-4b75-96ce-7e100aa37ec3.png)
+
 + Informe Operacional
 
 
