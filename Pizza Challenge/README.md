@@ -20,7 +20,7 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
   
- + Informe Estratégico
+ #### + Informe Estratégico
  
   ![image](https://user-images.githubusercontent.com/82233779/210621609-ef0a752b-fd55-4be0-9397-cf8152bcf16b.png)
 
