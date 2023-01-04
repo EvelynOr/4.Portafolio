@@ -1,4 +1,4 @@
-# 🍕🍕  1. Pizza Challenge: Competencia promovida por Mavenanalytics [^1] 
+# 🍕🍕  1.  Plato's Pizza [^1] 
 
 + Análisis de datos realizado para un restaurante de pizza 
 + Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
@@ -148,7 +148,7 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 
 
 
-[^1]: Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
+[^1]: Competencia promovida por Mavenanalytics. Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge 
 [^2]: Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código. https://pandas-profiling.ydata.ai/docs/master/index.html
 [^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado.Fuentes: R. Pindyck y D. Rubinfeld,  2009; https://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com; https://www.forbes.com/; https://www.pmq.com; https://www.proquest.com
 
