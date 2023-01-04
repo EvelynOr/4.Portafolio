@@ -20,10 +20,12 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
   
-  
+ + Informe Estratégico
   ![image](https://user-images.githubusercontent.com/82233779/210621609-ef0a752b-fd55-4be0-9397-cf8152bcf16b.png)
 
+ + Informe Táctico
 
++ Informe Operacional
 ![PBI](https://user-images.githubusercontent.com/82233779/203619328-de08192d-a6db-435e-a570-4244fc1859b4.png)
 
 ##### Reporte: https://app.powerbi.com/groups/me/reports/5214dc99-4bdb-4c3b-b296-58c4d0733312/ReportSection41d8ebf32b21398ea8a0 
