@@ -42,6 +42,7 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 Información general sobre DAX, https://learn.microsoft.com/es-es/dax/dax-overview
 
 
+#
 
 ### 1.2 📊 En Excel 
 
