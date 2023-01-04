@@ -19,7 +19,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 - Diagramación  
 
 
-#### Información general de las tiendas  
+#### ReporteI: Información general de las tiendas  
 1.	Tiendas vigentes y Tiendas nuevas
 2.	Tipo de cadena que se tiene
 3.	Fechas de apertura de cada tienda 
@@ -31,7 +31,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 ![Stores](https://user-images.githubusercontent.com/82233779/208550701-7f59b5da-b9aa-4f79-a71d-df91bc1d0ed2.jpeg)
 
 
-#### Ventas anuales 
+#### Reporte II: Ventas anuales 
 1.	Total de ventas brutas y Total de ventas netas 
 2.	Ventas por tiendas vigentes y tiendas nuevas 
 3.	Ventas por tipo de cadena
@@ -43,7 +43,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 ![Ventas](https://user-images.githubusercontent.com/82233779/208550887-a0837b91-6236-4fbd-b174-f815d0c4e283.jpeg)
 
 
-#### Ventas por Distrito
+#### Reporte III: Ventas por Distrito
 1.	Ventas brutas, ventas netas y rebajas por tienda 
 2.	Ventas por distrito
 3.	Ventas por mes
@@ -55,7 +55,7 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis
 ![Ventas Distrito](https://user-images.githubusercontent.com/82233779/208550768-7087b59b-3729-4cb8-99d0-9b7047103308.jpeg)
 
 
-#### Ventas por categoría 
+#### Reporte IV: Ventas por categoría 
 1.	Ventas totales
 2.	Unidades vendidas
 3.	Margen bruto
