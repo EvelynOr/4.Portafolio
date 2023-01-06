@@ -125,7 +125,8 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 6. Ofrecer tipos de pizza que se identifiquen con la cultura culinaria del Estado u otras alternativas como veganos/vegetarianos/bajas calorías.
 7. Llamar la atención sobre los artículos de alto beneficio en el menú con fotos o leyendas.
 8. Armar combinaciones de productos y paquetes que aumenten el precio por cliente y los márgenes generales.
-9. Agregar asientos al aire libre.
+9. En caso quieran competir con el precio promedio de US$ 11.00, ofrecerlo por temporada, por horario o por monto de compra.
+10. Agregar asientos al aire libre.
 
 #### Administrativas
 7. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos, ya que variaciones en el precio afecta los ingresos.
