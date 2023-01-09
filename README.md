@@ -11,5 +11,5 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 
 
-[^1]: Proceso de aprendizaje 👣: https://github.com/EvelynOr/1.Proyectos_Power-BI 
+[^1]: Proceso de aprendizaje 👣: https://github.com/EvelynOr/Proyectos_Power-BI
 
