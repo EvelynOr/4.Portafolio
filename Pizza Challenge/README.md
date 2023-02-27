@@ -129,15 +129,15 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 10. Agregar asientos al aire libre.
 
 #### Administrativas
-7. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos, ya que variaciones en el precio afecta los ingresos.
-8. Examine el costo de cada pizza y determinar su rentabilidad
-9. Ofrecer valor:
+11. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos, ya que variaciones en el precio afecta los ingresos.
+12. Examine el costo de cada pizza y determinar su rentabilidad
+13. Ofrecer valor:
 + generar lealtad recompensando la frecuencia (tarjetas perforadas, sistemas de puntos o una aplicación de fidelización completa).
 + reducir y optimizar el menú para entrega y comida para llevar
 + la ausencia de contacto es muy importante y existirá de forma permanente
 + chatbots para acelerar el proceso de pedido digital y ayudar a los clientes en las redes sociales
-10. Mejorar su posicionamiento: mantener contacto con los clientes y retribuir a la comunidad.
-11. Mantenerse al dia con las tendencias como:
+14. Mejorar su posicionamiento: mantener contacto con los clientes y retribuir a la comunidad.
+15. Mantenerse al dia con las tendencias como:
 +  the virtual or ghost kitchens únicamente para la entrega  
 +  repensar cuánto espacio físico necesitan realmente
 +  las cloud kitchens para minimizar los costos generales y mejorar la logística
