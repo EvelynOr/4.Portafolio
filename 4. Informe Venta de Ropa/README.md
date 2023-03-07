@@ -51,6 +51,8 @@ Algunos determinantes de la demanda o cambios en la demanda
 + Formulación de preguntas guía para cada reporte
 + Diagramación  
 
+# Reporte
+
 ### 1. Portada
 ![1 Portada](https://user-images.githubusercontent.com/82233779/223469546-95c2e6c8-185c-4b69-be9a-8b41bb62ff46.JPG)
 
