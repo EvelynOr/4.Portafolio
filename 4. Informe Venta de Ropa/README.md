@@ -1,4 +1,4 @@
-### 🕵️‍♂️🤵‍ 4. Informe Venta de Ropa para hombre
+## 🕵️‍♂️🤵‍ 4. Informe Venta de Ropa para hombre
 
 + Análisis de datos realizado para una empresa para un único producto, ropa de hombre 
 + El ejercicio presenta seis reportes: reporte resumen, reporte por segmento, reporte por grupo, por comprador, por ID producto y por tienda  
