@@ -43,8 +43,20 @@ Algunos determinantes de la demanda o cambios en la demanda
 4. Ofrecer ofertas o compras previas a los días festivos nacionales/locales o cambios de temporada que registran una mayor demanda.
 5. Generar lealtad recompensando la frecuencia (tarjetas perforadas, sistemas de puntos o una aplicación de fidelización completa).
 
+
+# Actividades
+Revisión de la data
+Definición de métricas para cada reporte
+Formulación de preguntas guía para cada reporte
+Diagramación  
+
+
+
 [^1]  https://baba-blog.com/es/us-apparel-market-statista-dossier/ 
+
 [^2]  Acrónimo de North American Industry Classification System (Sistema Norteamericano de Clasificación de Industrias) 
-[^3] https://www.brildor.com/blog/es/asi-aumentara-en-2022-la-demanda-de-ropa-personalizada/ 
+
+[^3] https://www.brildor.com/blog/es/asi-aumentara-en-2022-la-demanda-de-ropa-personalizada/
+
 [^4] https://www.modaes.com/entorno/el-hombre-inmune-a-la-inflacion-los-precios-suben-mas-que-los-de-mujer-en-cada-crisis
 
