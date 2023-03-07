@@ -57,18 +57,18 @@ Algunos determinantes de la demanda o cambios en la demanda
 ![1 Portada](https://user-images.githubusercontent.com/82233779/223469546-95c2e6c8-185c-4b69-be9a-8b41bb62ff46.JPG)
 
 ### 2. Reporte Resumen 
- ¿Cuál fue el total de ventas en 2014?
-¿Cuál fue el margen bruto general?
-¿Cuál fue el monto de rebajas otorgadas?
-¿Cuál fue el total de unidades vendidas?
-¿Cuál fue el total de ventas por mes realizadas?
-Presentar un resumen de lo anterior por: segmento, grupo, ID del producto y comprador
++ ¿Cuál fue el total de ventas en 2014?
++ ¿Cuál fue el margen bruto general?
++ ¿Cuál fue el monto de rebajas otorgadas?
++ ¿Cuál fue el total de unidades vendidas?
++ ¿Cuál fue el total de ventas por mes realizadas?
++ Presentar un resumen de lo anterior por: segmento, grupo, ID del producto y comprador
 ![2 InformeResumen](https://user-images.githubusercontent.com/82233779/223469933-54fac8f2-e0ce-4ff6-99eb-8cca624f172b.JPG)
 
 ### 3. Reporte por Segmento
-¿Cuántos segmentos se manejan a la fecha?
-¿Cuáles  fueron los cinco principales segmentos de venta?
-¿Cuáles fueron los cinco segmentos que menos ventas presentaron?
++ ¿Cuántos segmentos se manejan a la fecha?
++ ¿Cuáles  fueron los cinco principales segmentos de venta?
++ ¿Cuáles fueron los cinco segmentos que menos ventas presentaron?
 ![3 ReporteSegemento](https://user-images.githubusercontent.com/82233779/223470090-99d90b9a-3966-46ad-97a9-d5f2622e10b3.JPG)
 
 ### 4. Reporte por Grupo
@@ -79,21 +79,21 @@ Presentar un resumen de las ventas y porcentajes por grupo
 ![4 ReporteGrupo](https://user-images.githubusercontent.com/82233779/223470230-2931543b-b3bd-4abb-a153-ec78a60b0019.JPG)
 
 ### 5. Reporte por Comprador
-¿Cuántos compradores se tienen a la fecha?
-¿Quiénes  fueron los cinco principales compradores ?
-¿Quiénes fueron los cinco compradores con menor compras?
-Presentar un resumen de las ventas y porcentajes por comprador
++ ¿Cuántos compradores se tienen a la fecha?
++ ¿Quiénes  fueron los cinco principales compradores ?
++ ¿Quiénes fueron los cinco compradores con menor compras?
++ Presentar un resumen de las ventas y porcentajes por comprador
 ![5 ReporteComprador](https://user-images.githubusercontent.com/82233779/223470362-051fab1d-8f89-4e0a-aa94-afe014999f78.JPG)
 
 ### 6. Reporte por ID Producto
-¿Cuántos productos se tienen a la fecha?
-Presentar los cinco ID productos más vendidos y su porcentaje 
-Presentar los cinco ID productos menos vendidos y su porcentaje 
++ ¿Cuántos productos se tienen a la fecha?
++ Presentar los cinco ID productos más vendidos y su porcentaje 
++ Presentar los cinco ID productos menos vendidos y su porcentaje 
 ![6 ReporteIDProducto](https://user-images.githubusercontent.com/82233779/223470502-d0d23ea9-f7c3-4291-8fb6-f09db93fd68d.JPG)
 
 ### 7. Reporte por Tienda
-Total de tiendas a la fecha
-Presentar un reporte de las ventas totales y porcentaje por: tipo de tienda, ciudad en la que se ubican, tamaño de la tienda y región. 
++ Total de tiendas a la fecha
++ Presentar un reporte de las ventas totales y porcentaje por: tipo de tienda, ciudad en la que se ubican, tamaño de la tienda y región. 
 ![7 ReporteTienda](https://user-images.githubusercontent.com/82233779/223470598-3142c7cc-7d86-4fe9-8404-d8d85ca7abcf.JPG)
 
 ### Reporte 
