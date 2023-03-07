@@ -26,7 +26,7 @@ La curva de demanda, aunque tiene pendiente negativa, es bastante elástica.
 Por una u otra razón, los consumidores consideran que la marca de cada una es diferente del resto. La diferencia se encuentra, en marca, en la reputación, es decir, la imagen (verdadera o falsa) que tenga el consumidor,  por lo que podrían pagar más.
 
 Elasticidad
-La elasticidad precio de la demanda, sería relativamente elástica (E > 1). Es decir, variaciones pequeñas en el precio generan un mayor cambio en la cantidad demandada. Sin embargo, se reporta para España que la elasticidad precio de la demanda es menor que para la elasticidad registrada para la ropa de mujer, lo que significa que este mercado resiste más las subida de los precios. McKinsey indica que este fenómeno se ha replicado en el sector de moda estadounidense [4].    
+La elasticidad precio de la demanda, sería relativamente elástica (E > 1). Es decir, variaciones pequeñas en el precio generan un mayor cambio en la cantidad demandada. Sin embargo, se reporta para España que la elasticidad precio de la demanda es menor que para la elasticidad registrada para la ropa de mujer, lo que significa que este mercado resiste más las subida de los precios. McKinsey indica que este fenómeno se ha replicado en el sector de moda estadounidense [^4].    
 
 Algunos determinantes de la demanda o cambios en la demanda
 - Bienes sustitutos
@@ -43,5 +43,8 @@ Algunos determinantes de la demanda o cambios en la demanda
 4. Ofrecer ofertas o compras previas a los días festivos nacionales/locales o cambios de temporada que registran una mayor demanda.
 5. Generar lealtad recompensando la frecuencia (tarjetas perforadas, sistemas de puntos o una aplicación de fidelización completa).
 
-
+[^1]  https://baba-blog.com/es/us-apparel-market-statista-dossier/ 
+[^2]  Acrónimo de North American Industry Classification System (Sistema Norteamericano de Clasificación de Industrias) 
+[^3] https://www.brildor.com/blog/es/asi-aumentara-en-2022-la-demanda-de-ropa-personalizada/ 
+[^4] https://www.modaes.com/entorno/el-hombre-inmune-a-la-inflacion-los-precios-suben-mas-que-los-de-mujer-en-cada-crisis
 
