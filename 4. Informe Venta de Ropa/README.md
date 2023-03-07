@@ -96,13 +96,16 @@ Total de tiendas a la fecha
 Presentar un reporte de las ventas totales y porcentaje por: tipo de tienda, ciudad en la que se ubican, tamaño de la tienda y región. 
 ![7 ReporteTienda](https://user-images.githubusercontent.com/82233779/223470598-3142c7cc-7d86-4fe9-8404-d8d85ca7abcf.JPG)
 
+### Reporte 
+https://app.powerbi.com/reportEmbed?reportId=83c46d23-dc3e-46d5-96a9-8f156c9a5c92&autoAuth=true&ctid=02db542f-5c6b-445a-b3f2-0cc4753c17b9   
+
+![Ventas_Hombre](https://user-images.githubusercontent.com/82233779/223471493-7197bc07-9bec-46e5-8223-796fcd32f079.jpg)
 
 
-[^1]  https://baba-blog.com/es/us-apparel-market-statista-dossier/ 
 
-[^2]  Acrónimo de North American Industry Classification System (Sistema Norteamericano de Clasificación de Industrias) 
 
-[^3] https://www.brildor.com/blog/es/asi-aumentara-en-2022-la-demanda-de-ropa-personalizada/
-
-[^4] https://www.modaes.com/entorno/el-hombre-inmune-a-la-inflacion-los-precios-suben-mas-que-los-de-mujer-en-cada-crisis
+[^1]:  https://baba-blog.com/es/us-apparel-market-statista-dossier/ 
+[^2]:  Acrónimo de North American Industry Classification System (Sistema Norteamericano de Clasificación de Industrias) 
+[^3]: https://www.brildor.com/blog/es/asi-aumentara-en-2022-la-demanda-de-ropa-personalizada/
+[^4]: https://www.modaes.com/entorno/el-hombre-inmune-a-la-inflacion-los-precios-suben-mas-que-los-de-mujer-en-cada-crisis
 
