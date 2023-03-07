@@ -72,10 +72,10 @@ Algunos determinantes de la demanda o cambios en la demanda
 ![3 ReporteSegemento](https://user-images.githubusercontent.com/82233779/223470090-99d90b9a-3966-46ad-97a9-d5f2622e10b3.JPG)
 
 ### 4. Reporte por Grupo
-¿Cuántos grupos se manejan a la fecha?
-¿Cuáles  fueron los cinco principales grupos de venta?
-¿Cuáles fueron los cinco grupos que menos ventas presentaron?
-Presentar un resumen de las ventas y porcentajes por grupo
++ ¿Cuántos grupos se manejan a la fecha?
++ ¿Cuáles  fueron los cinco principales grupos de venta?
++ ¿Cuáles fueron los cinco grupos que menos ventas presentaron?
++ Presentar un resumen de las ventas y porcentajes por grupo
 ![4 ReporteGrupo](https://user-images.githubusercontent.com/82233779/223470230-2931543b-b3bd-4abb-a153-ec78a60b0019.JPG)
 
 ### 5. Reporte por Comprador
