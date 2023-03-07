@@ -45,10 +45,11 @@ Algunos determinantes de la demanda o cambios en la demanda
 
 
 # Actividades
-Revisión de la data
-Definición de métricas para cada reporte
-Formulación de preguntas guía para cada reporte
-Diagramación  
+
++ Revisión de la data
++ Definición de métricas para cada reporte
++ Formulación de preguntas guía para cada reporte
++ Diagramación  
 
 
 
