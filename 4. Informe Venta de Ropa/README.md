@@ -90,7 +90,7 @@ Algunos determinantes de la demanda o cambios en la demanda
 ![7 ReporteTienda](https://user-images.githubusercontent.com/82233779/223470598-3142c7cc-7d86-4fe9-8404-d8d85ca7abcf.JPG)
 
 
-📍 3. Recomendaciones 
+# 📍 3. Recomendaciones 
 1. Incorporarse al sector de ventas online 
 2. Considerar las tendencia 
 3. Ofrecer un producto diferenciado para ciudades con menores ingresos
