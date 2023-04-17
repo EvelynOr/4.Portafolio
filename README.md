@@ -9,6 +9,8 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 3. Informe de Ventas Minoristas: Análisis de venta directa, para informes y paneles empresariales. https://github.com/EvelynOr/4.Portafolio/tree/main/3.%20Ventas%20Minorista
 
+4. Informe Venta de Ropa
+
 
 
 [^1]: Proceso de aprendizaje 👣: https://github.com/EvelynOr/Proyectos_Power-BI
