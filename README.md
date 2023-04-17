@@ -11,7 +11,7 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 4. Informe Venta de Ropa
 
-
+5. EDA
 
 [^1]: Proceso de aprendizaje 👣: https://github.com/EvelynOr/Proyectos_Power-BI
 
