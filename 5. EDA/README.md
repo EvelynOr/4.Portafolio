@@ -3,7 +3,7 @@ EDA (por sus siglas en inglés exploratory data analysis)
 
 El análisis exploratorio de datos es un enfoque para analizar datos con el fin de resumir las principales características de los datos obtener una mejor comprensión del conjunto de los mismos, descubrir relaciones entre diferentes variables y extraer variables importantes para el problema que se trata de resolver (Data Analysis with Python, Coursera).
 
-## 2.1 EDA Trabajadores 👨‍💻👩🏻‍💼
+## 5.1 EDA Trabajadores 👨‍💻👩🏻‍💼
 
 Nivel: principiantes, sin ningun conocimiento previo en Python o Power BI
 
@@ -32,7 +32,7 @@ Formular las preguntas adecuadas previo a iniciar el EDA guía y facilita el pro
 
 
 
-## 2.2 EDA Automobile 🚗 🚘
+## 5.2 EDA Automobile 🚗 🚘
 
 Nivel: principiantes, sin ningun conocimiento previo en Python o Power BI Corresponde a la tercera clase del curso Data Analysis with Python
 
