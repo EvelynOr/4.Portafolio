@@ -1,4 +1,4 @@
-### 🧾💶 3. Informe de Ventas Minoristas [^1]
+### 🧾💶 3. Dashboard e Informes de Ventas Minoristas [^1]
 
 + Análisis de datos de las ventas minoristas por tienda y distrito
 + Objetivo: Analizar el desempeño de la empresa
