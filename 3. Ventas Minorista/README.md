@@ -9,7 +9,7 @@
 
 ## ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
-### 🧾💶 3.1 Dashboard
+### 💶 3.1 Dashboard
 Análisis del desempeño de las tiendas  
 Objetivo: obtener un resumen de las métricas de la cadena de tiendas 
 
