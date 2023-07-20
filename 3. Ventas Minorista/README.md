@@ -16,7 +16,7 @@ Objetivo: obtener un resumen de las métricas de la cadena de tiendas
 ![Dashboard_MetricasTiendas](https://github.com/EvelynOr/4.Portafolio/assets/82233779/8b9e091f-08db-4e5f-bf99-7915bc6961b1)
 
 
-### 🧾 3.1 Informes de Ventas Minoristas
+### 🧾 3.2 Informes de Ventas Minoristas
 Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis por tienda, ventas anuales y ventas por tipo de categoría.
 
 ##### Actividades
