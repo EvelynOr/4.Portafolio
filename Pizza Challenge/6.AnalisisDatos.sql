@@ -102,7 +102,7 @@ SELECT
 FROM [dbo].[Pizza]
 
 
---7. Ventas por category de pizza https://www.youtube.com/watch?v=U2IFwTwUZ_s
+--7. Ventas por category de pizza 
 SELECT 
 	category AS Categoria, 
 	FORMAT(SUM(total_order), '#,##0.0') AS TotalVentasCategoria 
