@@ -121,7 +121,7 @@ FROM [dbo].[Pizza]
 		ORDER BY TotalOrden DESC
 
 
---9. Ventas por category y nombre de la pizza mayores a 10,000 (o teniendo en cuenta) https://www.youtube.com/watch?v=Nxf1ouF-z1M
+--9. Ventas por category y nombre de la pizza mayores a 10,000 (o teniendo en cuenta) 
 SELECT 
 	category AS Categoria, 
 	name AS NombrePizza , 
@@ -173,13 +173,13 @@ FROM [dbo].[Pizza]
 --D. ANALISIS AREA REAL (producto) 
 
 
---12. Total de pizzas vendidas 
+--14. Total de pizzas vendidas 
 SELECT 
 	FORMAT(SUM(quantity), '#,##0.') AS TotalPizzas_Vendidas
 FROM[dbo].[Pizza]
 
 
---13. Pizzas vendidas por categoria ordenadas ascendente
+--15. Pizzas vendidas por categoria ordenadas ascendente
 SELECT 
 	category, 
 	FORMAT(SUM(quantity), '#,##0.') AS PizzasVendidasCategoria
@@ -188,7 +188,7 @@ FROM[dbo].[Pizza]
 		ORDER BY PizzasVendidasCategoria DESC
 
 
---14.Pizzas vendidas por numero de mes
+--16.Pizzas vendidas por numero de mes
 SELECT 
 	DATEPART(month,date) AS Mes,
 	FORMAT(SUM(quantity), '#,##0.') AS PizzasVendidas_Mes
@@ -197,7 +197,7 @@ FROM [dbo].[Pizza]
 		ORDER BY Mes ASC
 
 
---14.1 Pizzas vendidas por nombre mes
+--17 Pizzas vendidas por nombre mes
 SELECT 
 	FORMAT(date, 'MMMM') AS Mes,
 	FORMAT(SUM(quantity), '#,##0.') AS PizzasVendidas_Mes
@@ -206,14 +206,14 @@ FROM [dbo].[Pizza]
 		ORDER BY Mes DESC
 
 
---15. Pizzas vendidas en enero
+--18. Pizzas vendidas en enero
 SELECT 
 	FORMAT(SUM(quantity), '#,##0.') AS PizzasVendidas_Enero
 FROM[dbo].[Pizza]
 WHERE date >= '2015-01-01' AND date<= '2015-01-31';
 
 
---16. Pizzas vendidas por dia
+--19. Pizzas vendidas por dia
 SELECT 
 	FORMAT(date, 'ddd') AS Dia,
 	FORMAT(SUM(quantity), '#,##0.') AS PizzasVendidas_Dia
@@ -222,7 +222,7 @@ FROM [dbo].[Pizza]
 		ORDER BY Dia 
 
 
---17. Pizzas vendidas por hora 
+--20. Pizzas vendidas por hora 
 SELECT 
 	FORMAT(time, 'hh') AS Hora,
 	FORMAT(SUM(quantity), '#,##0.') AS PizzasVendidas_Hora
@@ -231,7 +231,7 @@ FROM [dbo].[Pizza]
 		ORDER BY Hora 
 
 
---18. Pizzas vendidas por tamano ordenadas ascendente 
+--21. Pizzas vendidas por tamano ordenadas ascendente 
 SELECT 
 	size , FORMAT(SUM(quantity), '#,##0.') AS PizzasVendidas_Tamano
 FROM [dbo].[Pizza]
@@ -239,7 +239,7 @@ FROM [dbo].[Pizza]
 		ORDER BY size ASC
 
 
---19. Top 10 pizzas vendidas
+--22. Top 10 pizzas vendidas
 SELECT TOP (10)
 	name, 	
 	FORMAT(SUM(quantity), '#,##0.') AS Top10
@@ -249,7 +249,7 @@ FROM
 		ORDER BY Top10 DESC
 
 
---20. Las 5 pizzas menos vendidas 
+--23. Las 5 pizzas menos vendidas 
 SELECT TOP (5)
 	name, 	
 	SUM(quantity) AS Top5
@@ -261,13 +261,13 @@ FROM [dbo].[Pizza]
 --E. ANALISIS POR ORDENES 
 
 
---21. Total de ordenes 
+--24. Total de ordenes 
 SELECT 
 	FORMAT(COUNT (DISTINCT order_id), '#,##0.' ) AS TotalOrdenes
 FROM[dbo].[Pizza]
 	
 
---22. Total de ordenes por categoria ordenadas ascendente
+--25. Total de ordenes por categoria ordenadas ascendente
 SELECT category AS Categoria, 
 	FORMAT(COUNT (DISTINCT order_id), '#,##0.')  AS TotalOrdenes_Categoria
 FROM[dbo].[Pizza]
@@ -275,7 +275,7 @@ FROM[dbo].[Pizza]
 		ORDER BY TotalOrdenes_Categoria ASC
 
 
---23. Total de ordenes por name de pizza
+--26. Total de ordenes por name de pizza
 SELECT name AS NombrePizza, 
 	FORMAT(COUNT (DISTINCT order_id), '#,##0.')  AS TotalOrdenes_Pizza
 FROM[dbo].[Pizza]
