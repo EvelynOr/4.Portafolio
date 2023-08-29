@@ -1,4 +1,4 @@
-# 💼 4.Portafolio [^1]  
+# 💼 4.Portafolio   
 Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI - Excel - Python - SQL
 
 #### Contenido 👩‍💻
@@ -13,5 +13,5 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 5. EDA
 
-[^1]: Proceso de aprendizaje 👣: https://github.com/EvelynOr/Proyectos_Power-BI
+
 
