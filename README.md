@@ -12,6 +12,8 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 4. Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/4.%20Informe%20Venta%20de%20Ropa)
 
 5. EDA
+   
+6. Python [Modelos para la Estimacion de Precios de Vivienda](https://github.com/EvelynOr/Python/tree/main/1.%20Proyectos/1.%20House%20Price%20Prediction)
 
 
 
