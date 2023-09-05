@@ -19,6 +19,11 @@ Se trabajó con toda la data. Se analizó a través de métricas en tres niveles
 - Definición de métricas por tipo de análisis realizado
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
+
+ ####  Dashboard
+
+![Untitled](https://github.com/EvelynOr/4.Portafolio/assets/82233779/968c8cde-1d7a-43b6-aea2-ac9486e40a54)
+
   
  ####  Informe Estratégico
  
