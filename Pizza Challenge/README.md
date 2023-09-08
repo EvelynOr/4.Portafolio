@@ -156,7 +156,7 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 
 
 
-[^1]: Competencia promovida por Mavenanalytics. Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge y un poco de inspiración para el dashboard https://mavenanalytics.io/project/3945    
+[^1]: Competencia promovida por Mavenanalytics. Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge y un poco de inspiración para el dashboard T.Sipahi     
 [^2]: Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código. https://pandas-profiling.ydata.ai/docs/master/index.html
 [^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado.Fuentes: R. Pindyck y D. Rubinfeld,  2009; https://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com; https://www.forbes.com/; https://www.pmq.com; https://www.proquest.com
 
