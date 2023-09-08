@@ -11,7 +11,7 @@
 
 ### 1.1 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
-Se trabajó con toda la data. Se realizó un dashboard  y tres informes en los que se analizó a través de métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se dan algunas sugerencias e indicadores de seguimiento para los siguientes períodos.   
+Se trabajó con toda la data. Se realizó un dashboard  y tres informes en los que se analizó con base a métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se dan algunas sugerencias e indicadores de seguimiento para los siguientes períodos.   
 
 ##### Actividades
 - Revisión de la data y diccionario
