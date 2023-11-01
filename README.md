@@ -12,7 +12,7 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 5. EDA
    
-6. Python [Modelos para la Estimacion de Precios de Vivienda](https://github.com/EvelynOr/Python/tree/main/1.%20Proyectos/1.%20House%20Price%20Prediction)
+6. Python Modelos para la Estimacion de [Precios de Vivienda](https://github.com/EvelynOr/Python/tree/main/1.%20Proyectos/1.%20House%20Price%20Prediction)
 
 
 
