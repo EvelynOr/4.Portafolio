@@ -28,11 +28,17 @@ Se trabajó con toda la data. Se realizó un dashboard  y tres informes en los q
  ## B. Informes
  
  ###  B.1 Informe Estratégico
- ![PizzaSales_EstrategicoQR](https://github.com/EvelynOr/4.Portafolio/assets/82233779/9c7e7a62-35ce-43df-8624-8930e88699e2)
 
  #### Portada
  ![Portada](https://github.com/EvelynOr/4.Portafolio/assets/82233779/ac97917b-2d54-4ce9-8708-d667cc35ab1f)
  
+1. Ingresos generados: totales, mensuales, diario y por orden.
+2. Pizzas vendidas: total, por mes, diarias y por orden.
+3. Órdenes: totales, mensuales y por día.
+4. Ventas por categoría. 
+5. Top 5 y Bottom 5 pizzas en ventas.
+6. Unidades vendidas e Ingresos por tamaño de pizza.
+   
 #### Métricas
 ![Metricas](https://github.com/EvelynOr/4.Portafolio/assets/82233779/89ab1dc9-794f-4e18-b53d-285f9f5bd626)
 
