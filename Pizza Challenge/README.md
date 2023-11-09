@@ -164,13 +164,13 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 +  las cloud kitchens para minimizar los costos generales y mejorar la logística
 +  robots de servicio de alimentos
 +  máquinas-robots para hacer pizzas, se encarga de todo menos de hacer la masa 
-+  actualizarse con reportes de la industria https://www.360researchreports.com/enquiry/request-sample/20996313 o estudios especificos https://www.proquest.com/docview/1860284813 
++  actualizarse con reportes de [la industria](https://www.360researchreports.com/enquiry/request-sample/20996313) o estudios [especificos](https://www.proquest.com/docview/1860284813) 
 
 
 
 
 
-[^1]: Competencia promovida por Mavenanalytics. Data: https://www.mavenanalytics.io/blog/maven-pizza-challenge y un poco de inspiración para el dashboard T.Sipahi     
-[^2]: Es un módulo open source de Python con el que se hace el EDA con pocas líneas de código. https://pandas-profiling.ydata.ai/docs/master/index.html
-[^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado.Fuentes: R. Pindyck y D. Rubinfeld,  2009; https://www.newjersey-demographics.com; https://www.incomebyzipcode.com; https://www.homesnacks.com; https://aaronallen.com;https://nj1015.com; https://www.forbes.com/; https://www.pmq.com; https://www.proquest.com
+[^1]: Competencia promovida por [Mavenanalytics.](https://www.mavenanalytics.io/blog/maven-pizza-challenge) y un poco de inspiración para el dashboard T.Sipahi     
+[^2]: Es un módulo open source de Python con el que se hace el EDA con pocas [líneas de código.](https://pandas-profiling.ydata.ai/docs/master/index.html)
+[^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado. Fuentes: R. Pindyck y D. Rubinfeld,  2009; [demographics](https://www.newjersey-demographics.com); [incomebyzipcode](https://www.incomebyzipcode.com); [homesnacks](https://www.homesnacks.com); [aaronallen&associates](https://aaronallen.com;https://nj1015.com); [forbes](https://www.forbes.com/); [pizzamedia](https://www.pmq.com); [ProQuest](https://www.proquest.com)
 
