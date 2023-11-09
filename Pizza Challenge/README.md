@@ -51,10 +51,12 @@ Se trabajó con toda la data. Se realizó un dashboard  y tres informes en los q
 
    
  ### B.2 Informe Táctico
+(en proceso de actualización en el diseño) 
 
 ![image](https://user-images.githubusercontent.com/82233779/210622302-3e8e20d8-6d49-4b75-96ce-7e100aa37ec3.png)
 
 #### B.3 Informe Operacional
+(en proceso de actualización en el diseño) 
 
 ![image](https://user-images.githubusercontent.com/82233779/210622678-c244d66f-04ea-485e-92ee-b2aabfc65ad0.png)
 
