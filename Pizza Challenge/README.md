@@ -20,18 +20,25 @@ Se trabajó con toda la data. Se realizó un dashboard  y tres informes en los q
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
 
- ##  Dashboard
+ ##  A. Dashboard
 
 ![Untitled](https://github.com/EvelynOr/4.Portafolio/assets/82233779/968c8cde-1d7a-43b6-aea2-ac9486e40a54)
 
 
- ## Informes
+ ## B. Informes
  
- ####  Informe Estratégico
+ ###  B.1 Informe Estratégico
  
-  ![image](https://user-images.githubusercontent.com/82233779/210621609-ef0a752b-fd55-4be0-9397-cf8152bcf16b.png)
+ #### Portada
+ ![Portada](https://github.com/EvelynOr/4.Portafolio/assets/82233779/ac97917b-2d54-4ce9-8708-d667cc35ab1f)
+ 
+#### Métricas
+![Metricas](https://github.com/EvelynOr/4.Portafolio/assets/82233779/89ab1dc9-794f-4e18-b53d-285f9f5bd626)
 
- #### Informe Táctico
+#### Analisis de Pareto
+![80-20](https://github.com/EvelynOr/4.Portafolio/assets/82233779/ac3b63cf-8e3e-4ab7-a1b7-0f7eef4a6b1c)
+
+ ### B.2 Informe Táctico
 
 ![image](https://user-images.githubusercontent.com/82233779/210622302-3e8e20d8-6d49-4b75-96ce-7e100aa37ec3.png)
 
