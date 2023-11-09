@@ -15,7 +15,7 @@ Se trabajó con toda la data. Se realizó un dashboard  y tres informes en los q
 
 ##### Actividades
 - Revisión de la data y diccionario
-- Integración de la data con SQL Server
+- Integración de la data con SQL Server, [query](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/6.AnalisisDatos.sql)
 - Definición de métricas por tipo de análisis realizado
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
