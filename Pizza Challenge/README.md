@@ -61,6 +61,7 @@ Se trabajó con toda la data. Se realizó un dashboard  y tres informes en los q
 
 #### Recursos utilizados:   
 Información general sobre [DAX,](https://learn.microsoft.com/es-es/dax/dax-overview)
+Inspiracion dashboard y reportes: T.Sipahi, A. Godlewska.
 
 
 #
