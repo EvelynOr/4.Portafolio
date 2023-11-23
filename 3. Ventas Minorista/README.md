@@ -7,18 +7,18 @@
 - Se utilizó  Power BI |  Excel  
 - Nivel: básico-intermedio
 
-## Proyecto en [SQL Server](https://github.com/EvelynOr/SQL/tree/main/2.%20Ventas%20Minorista)
+### 1. Proyecto en [SQL Server](https://github.com/EvelynOr/SQL/tree/main/2.%20Ventas%20Minorista)
 
-## ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
+### ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG) 2. Proyecto en Power BI
 
-### 💶 3.1 Dashboard
+#### 💶 3.1 Dashboard
 Análisis del desempeño de las tiendas  
 Objetivo: obtener un resumen de las métricas de la cadena de tiendas 
 
 ![Dashboard_MetricasTiendas](https://github.com/EvelynOr/4.Portafolio/assets/82233779/8b9e091f-08db-4e5f-bf99-7915bc6961b1)
 
 
-### 🧾 3.2 Informes de Ventas Minoristas
+#### 🧾 3.2 Informes de Ventas Minoristas
 Se trabajó con toda la data. Para ampliar el ejercicio se realizó un análisis por tienda, ventas anuales y ventas por tipo de categoría.
 
 ##### Actividades
