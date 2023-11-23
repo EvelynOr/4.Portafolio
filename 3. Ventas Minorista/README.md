@@ -7,9 +7,9 @@
 - Se utilizó  Power BI |  Excel  
 - Nivel: básico-intermedio
 
-### 1. Proyecto en [SQL Server](https://github.com/EvelynOr/SQL/tree/main/2.%20Ventas%20Minorista)
+### Proyecto en [SQL Server](https://github.com/EvelynOr/SQL/tree/main/2.%20Ventas%20Minorista)
 
-### 2. Proyecto en Power BI
+### Proyecto en Power BI
 
 #### 💶 3.1 Dashboard
 Análisis del desempeño de las tiendas  
