@@ -9,7 +9,7 @@
 
 ### 1. Proyecto en [SQL Server](https://github.com/EvelynOr/SQL/tree/main/2.%20Ventas%20Minorista)
 
-### ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG) 2. Proyecto en Power BI
+### 2. Proyecto en Power BI
 
 #### 💶 3.1 Dashboard
 Análisis del desempeño de las tiendas  
