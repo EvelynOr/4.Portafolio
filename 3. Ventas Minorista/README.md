@@ -1,15 +1,15 @@
-### 🧾💶 3. Dashboard e Informes de Ventas Minoristas [^1]
+### 🧾💶 3. Ventas Minoristas [^1]
 
 + Análisis de datos de las ventas minoristas por tienda y distrito
 + Objetivo: Analizar el desempeño de la empresa
-
-
-- Se utilizó  Power BI |  Excel  
 - Nivel: básico-intermedio
-
+  
 ### Proyecto en [SQL Server](https://github.com/EvelynOr/SQL/tree/main/2.%20Ventas%20Minorista)
 
-### Proyecto en Power BI
+
+### Proyecto en Power BI: Dashboard e Informes
+- Se utilizó  Power BI |  Excel  
+
 
 #### 💶 3.1 Dashboard
 Análisis del desempeño de las tiendas  
