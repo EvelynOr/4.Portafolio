@@ -11,7 +11,17 @@
 
 ### 1.1 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
-Se trabajó con toda la data. Se realizó un dashboard  y tres informes en los que se analizó con base a métricas en tres niveles: estratégico, táctico y operacional. Además, para cada nivel se dan algunas sugerencias e indicadores de seguimiento para los siguientes períodos.   
+1. Se trabajó con toda la data.
+2. Se realizó un dashboard  y tres informes en los que se analizó con base a métricas en tres niveles: estratégico, táctico y operacional.
+3. Para cada informe se formuló  una serie de preguntan que guiaron la presentación de información y se dan algunas sugerencias e indicadores de seguimiento para los siguientes períodos.  
+4.  Los informes incluyen métricas que ofrecen una visión integral del rendimiento del restaurante: 
+4.1 𝗜𝗻𝗴𝗿𝗲𝘀𝗼𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝗱𝗼𝘀: exploro los ingresos totales, mensuales, diarios y por orden para entender las tendencias financieras clave del restaurante.
+4.2 𝗣𝗶𝘇𝘇𝗮𝘀 𝗩𝗲𝗻𝗱𝗶𝗱𝗮𝘀: muestro el total de pizzas vendidas, desglosadas por mes, día y por orden, ofreciendo una comprensión profunda del volumen de ventas.
+4.3 𝗢́𝗿𝗱𝗲𝗻𝗲𝘀: analizo el número total de órdenes, mensual, diario, para comprender la demanda y los patrones de pedidos.
+4.4 𝗩𝗲𝗻𝘁𝗮𝘀 𝗽𝗼𝗿 𝗖𝗮𝘁𝗲𝗴𝗼𝗿í𝗮: exploro las ventas por categoría de pizza para identificar las preferencias de los clientes.
+4.5 𝗧𝗼𝗽 𝟱 𝘆 𝗕𝗼𝘁𝘁𝗼𝗺 𝟱 𝗣𝗶𝘇𝘇𝗮𝘀: destaco las 5 pizzas más vendidas y las 5 menos vendidas, proporcionando información sobre qué pizzas tienen un desempeño sobresaliente y cuáles necesitan atención.
+4.6 𝗨𝗻𝗶𝗱𝗮𝗱𝗲𝘀 𝗩𝗲𝗻𝗱𝗶𝗱𝗮𝘀 𝗲 𝗜𝗻𝗴𝗿𝗲𝘀𝗼𝘀 𝗽𝗼𝗿 𝗧𝗮𝗺𝗮ñ𝗼 𝗱𝗲 𝗣𝗶𝘇𝘇𝗮: profundizo en las unidades vendidas y los ingresos generados según el tamaño de la pizza, revelando información valiosa sobre las preferencias de los consumidores.  
+5. Se presenta un análisis macroeconómico y microeconómico  del mercado de la pizza, contextualizado para USA. Con base a esto, se dan 15 recomendaciones (10 operativas y 5 administrativas).
 
 ##### Actividades
 - Revisión de la data y diccionario
