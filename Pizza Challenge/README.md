@@ -15,7 +15,7 @@
 2. Se realizó un dashboard  y tres informes en los que se analizó con base a métricas en tres niveles: estratégico, táctico y operacional.
 3. Para cada informe se formuló  una serie de preguntan que guiaron la presentación de información y se dan algunas sugerencias e indicadores de seguimiento para los siguientes períodos.  
 4.  Los informes incluyen métricas que ofrecen una visión integral del rendimiento del restaurante: 
-+ 4.1 𝗜𝗻𝗴𝗿𝗲𝘀𝗼𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝗱𝗼𝘀: exploro los ingresos totales, mensuales, diarios y por orden para entender las tendencias financieras clave del restaurante.
++4.1 𝗜𝗻𝗴𝗿𝗲𝘀𝗼𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝗱𝗼𝘀: exploro los ingresos totales, mensuales, diarios y por orden para entender las tendencias financieras clave del restaurante.
 + 4.2 𝗣𝗶𝘇𝘇𝗮𝘀 𝗩𝗲𝗻𝗱𝗶𝗱𝗮𝘀: muestro el total de pizzas vendidas, desglosadas por mes, día y por orden, ofreciendo una comprensión profunda del volumen de ventas.
 + 4.3 𝗢́𝗿𝗱𝗲𝗻𝗲𝘀: analizo el número total de órdenes, mensual, diario, para comprender la demanda y los patrones de pedidos.
 + 4.4 𝗩𝗲𝗻𝘁𝗮𝘀 𝗽𝗼𝗿 𝗖𝗮𝘁𝗲𝗴𝗼𝗿í𝗮: exploro las ventas por categoría de pizza para identificar las preferencias de los clientes.
