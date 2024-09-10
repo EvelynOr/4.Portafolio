@@ -16,7 +16,8 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 ### Python
 
-Modelos para la Estimacion de Precios de Vivienda
+A. Modelos para la Estimacion de Precios de Vivienda
+
 Etapa 1: [Recopilacion de Datos](https://github.com/EvelynOr/Python/tree/main/1.%20Proyectos/1.%20House%20Price%20Prediction)
 
 Etapa 2: [EDA](https://github.com/EvelynOr/Python/blob/main/1.%20Proyectos/1.%20House%20Price%20Prediction/Etapa%202_%20EDA_BostonHousing.ipynb)
