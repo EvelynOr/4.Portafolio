@@ -21,7 +21,7 @@ Descripción del Análisis
 + 𝗨𝗻𝗶𝗱𝗮𝗱𝗲𝘀 𝗩𝗲𝗻𝗱𝗶𝗱𝗮𝘀 𝗲 𝗜𝗻𝗴𝗿𝗲𝘀𝗼𝘀 𝗽𝗼𝗿 𝗧𝗮𝗺𝗮ñ𝗼 𝗱𝗲 𝗣𝗶𝘇𝘇𝗮: profundiza en las unidades vendidas y los ingresos generados según el tamaño de la pizza, revelando información valiosa sobre las preferencias de los consumidores.  
 5. Se presenta un análisis macroeconómico y microeconómico  del mercado de la pizza, contextualizado para USA. Con base a esto, se dan 15 recomendaciones (10 operativas y 5 administrativas).
 
-##### Actividades
+Actividades
 - Revisión de la data y diccionario
 - Integración de la data con SQL Server, [query](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/AnalisisDatos.sql)
 - Definición de métricas por tipo de análisis realizado
