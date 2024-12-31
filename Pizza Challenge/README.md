@@ -1,6 +1,6 @@
 # 🍕🍕  1.  Plato's Pizza [^1] 
 
-+ Análisis de datos realizado para un restaurante de pizza 
+Análisis de datos realizado para un restaurante de pizza 
 + Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
 + Objetivo: Mejorar las operaciones del restaurante en 2016
 
