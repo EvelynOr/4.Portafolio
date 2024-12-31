@@ -97,4 +97,4 @@ Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los nivele
  
 12. ¿Cuál es la demanda de productos esperada por dia de la semana?
 
-[^1]: De la guia de aprendizaje dada por Microsoft. Data: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-excel-stunning-report
+[^1]: De la guia de aprendizaje dada por Microsoft. [Data:](https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-excel-stunning-report)
