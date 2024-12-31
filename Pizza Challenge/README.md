@@ -8,8 +8,8 @@ Análisis de datos realizado para un restaurante de pizza [^1]
 - Se utilizó  Power BI |  Excel  |  Python |  SQL Server
 - Nivel: basico-intermedio
 
+Descripción del Análisis 
 
-### 1.1 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
 1. Se trabajó con toda la data.
 2. Se realizó un dashboard  y tres informes en los que se analizó con base a métricas en tres niveles: estratégico, táctico y operacional.
@@ -29,6 +29,8 @@ Análisis de datos realizado para un restaurante de pizza [^1]
 - Definición de métricas por tipo de análisis realizado
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
+
+### 1.1 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
 
 ######  A. [Dashboard](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/Dashboard.jpg)
 
