@@ -30,7 +30,7 @@ Análisis de datos realizado para un restaurante de pizza
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
 
- ##  A. Dashboard
+ ##  A. Dashboard (https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/Dashboard.jpg)
 
 ![Untitled](https://github.com/EvelynOr/4.Portafolio/assets/82233779/968c8cde-1d7a-43b6-aea2-ac9486e40a54)
 
