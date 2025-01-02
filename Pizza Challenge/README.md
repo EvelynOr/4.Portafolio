@@ -35,30 +35,23 @@ Actividades
 
 
 
- ###### 2. Informes
+###### 2. Informes
  
 ######  2.1 Informe [Estratégico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeEstrategico.pdf)
 
- #### Portada
- ![Portada](https://github.com/EvelynOr/4.Portafolio/assets/82233779/ac97917b-2d54-4ce9-8708-d667cc35ab1f)
+![Portada](https://github.com/EvelynOr/4.Portafolio/assets/82233779/ac97917b-2d54-4ce9-8708-d667cc35ab1f)
    
 #### Métricas
-![Metricas](https://github.com/EvelynOr/4.Portafolio/assets/82233779/89ab1dc9-794f-4e18-b53d-285f9f5bd626)
 1. Ingresos generados: totales, mensuales, diario y por orden.
 2. Pizzas vendidas: total, por mes, diarias y por orden.
 3. Órdenes: totales, mensuales y por día.
 4. Ventas por categoría. 
 5. Top 5 y Bottom 5 pizzas en ventas.
 6. Unidades vendidas e Ingresos por tamaño de pizza.
-
-   
-#### Analisis de Pareto
-![80-20](https://github.com/EvelynOr/4.Portafolio/assets/82233779/ac3b63cf-8e3e-4ab7-a1b7-0f7eef4a6b1c)
-
-1. Análisis  de Pareto entre el tipo de pizzas e ingresos.
+7. Analisis de Pareto entre el tipo de pizzas e ingresos.
 2. Tabla resumen de ingresos totales e ingresos acumulados por tipo de pizza.
+3. Recomendaciones
 
-Sugerencias para el área [estratégica](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeEstrategico.pptx).
 
    
 ###### 2.2 Informe Táctico
