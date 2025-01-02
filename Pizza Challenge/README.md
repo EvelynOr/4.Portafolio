@@ -28,16 +28,16 @@ Actividades
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
 
-### 1.1 ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
+### En Power BI
 
-######  A. [Dashboard](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/Dashboard.jpg)
-
-
+######  1. [Dashboard](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/Dashboard.jpg)
 
 
- ###### B. Informes
+
+
+ ###### 2. Informes
  
- ###  B.1 Informe [Estratégico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeEstrategico.pptx)
+######  2.1 Informe [Estratégico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeEstrategico.pptx)
 
  #### Portada
  ![Portada](https://github.com/EvelynOr/4.Portafolio/assets/82233779/ac97917b-2d54-4ce9-8708-d667cc35ab1f)
@@ -60,12 +60,12 @@ Actividades
 3. Sugerencias para el área estratégica.
 
    
- ### B.2 Informe Táctico
+ ### 2.2 Informe Táctico
 (en proceso de actualización en el diseño) 
 
 ![image](https://user-images.githubusercontent.com/82233779/210622302-3e8e20d8-6d49-4b75-96ce-7e100aa37ec3.png)
 
-#### B.3 Informe Operacional
+#### 2.3 Informe Operacional
 (en proceso de actualización en el diseño) 
 
 ![image](https://user-images.githubusercontent.com/82233779/210622678-c244d66f-04ea-485e-92ee-b2aabfc65ad0.png)
