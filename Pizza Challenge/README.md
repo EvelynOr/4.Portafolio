@@ -37,7 +37,7 @@ Actividades
 
  ###### 2. Informes
  
-######  2.1 Informe [Estratégico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeEstrategico.pptx)
+######  2.1 Informe [Estratégico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeEstrategico.pdf)
 
  #### Portada
  ![Portada](https://github.com/EvelynOr/4.Portafolio/assets/82233779/ac97917b-2d54-4ce9-8708-d667cc35ab1f)
