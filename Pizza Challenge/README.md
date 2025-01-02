@@ -57,7 +57,8 @@ Actividades
 
 1. Análisis  de Pareto entre el tipo de pizzas e ingresos.
 2. Tabla resumen de ingresos totales e ingresos acumulados por tipo de pizza.
-3. Sugerencias para el área estratégica.
+
+Sugerencias para el área [estratégica](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeEstrategico.pptx).
 
    
 ###### 2.2 Informe Táctico
