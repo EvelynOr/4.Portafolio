@@ -60,7 +60,7 @@ Actividades
 3. Sugerencias para el área estratégica.
 
    
- ### 2.2 Informe Táctico
+###### 2.2 Informe Táctico
 (en proceso de actualización en el diseño) 
 
 ![image](https://user-images.githubusercontent.com/82233779/210622302-3e8e20d8-6d49-4b75-96ce-7e100aa37ec3.png)
