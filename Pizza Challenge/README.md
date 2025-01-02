@@ -29,17 +29,9 @@ Actividades
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
 
 ### En Power BI
-
-######  1. [Dashboard](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/Dashboard.jpg)
-
-
-
-
-###### 2. Informes
  
 ######  2.1 Informe [Estratégico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeEstrategico.pdf)
-
-#### Métricas
+Métricas
 1. Ingresos generados: totales, mensuales, diario y por orden.
 2. Pizzas vendidas: total, por mes, diarias y por orden.
 3. Órdenes: totales, mensuales y por día.
@@ -51,7 +43,6 @@ Actividades
 3. Recomendaciones
 
 
-   
 ###### 2.2 Informe Táctico
 (en proceso de actualización en el diseño) 
 
