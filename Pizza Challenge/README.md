@@ -40,6 +40,7 @@ Métricas
 6. Unidades vendidas e Ingresos por tamaño de pizza.
 7. Analisis de Pareto entre el tipo de pizzas e ingresos.
 8. Tabla resumen de ingresos totales e ingresos acumulados por tipo de pizza.
+
 Recomendaciones
 
 
