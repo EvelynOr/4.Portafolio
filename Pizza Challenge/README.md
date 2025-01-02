@@ -10,7 +10,7 @@ Análisis de datos realizado para un restaurante de pizza [^1]
 
 Descripción del Análisis 
 1. Se trabajó con toda la data.
-2. Se realizó un dashboard  y tres informes en los que se analizó con base a métricas en tres niveles: estratégico, táctico y operacional.
+2. Se realizó un [dashboard](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/Dashboard.jpg)  y tres informes en los que se analizó con base a métricas en tres niveles: estratégico, táctico y operacional.
 3. Para cada informe se formuló  una serie de preguntan que guiaron la presentación de información y se dan algunas sugerencias e indicadores de seguimiento para los siguientes períodos.  
 4.  Los informes incluyen métricas que ofrecen una visión integral del rendimiento del restaurante: 
 + 𝗜𝗻𝗴𝗿𝗲𝘀𝗼𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝗱𝗼𝘀: explora los ingresos totales, mensuales, diarios y por orden para entender las tendencias financieras clave del restaurante.
