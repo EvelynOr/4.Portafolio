@@ -1,4 +1,4 @@
-### 🧾💶 3. Ventas Minoristas [^1]
+### 🧾💶 Ventas Minoristas [^1]
 
 + Análisis de datos de las ventas minoristas por tienda y distrito
 + Objetivo: Analizar el desempeño de la empresa
