@@ -47,16 +47,12 @@ Recomendaciones
 3. Comparar los ingresos de las pizzas mas vendidas respecto a las pizzas que generan más ingresos.
 4. Revisar si se mantiene el tamano de pizzas XXL, que es el tamaño con menor deman
 
-###### 2 Informe Táctico
+###### 2 Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.pdf)
 Métricas
 1. Ventas por mes
 2. Ventas por dia
-3. Pizzas vendidas por tamano
-4. Pizzas vendidas por categoria
-5. 
-(en proceso de actualización en el diseño) 
-
-![image](https://user-images.githubusercontent.com/82233779/210622302-3e8e20d8-6d49-4b75-96ce-7e100aa37ec3.png)
+3. Pizzas vendidas por tamaño
+4. Pizzas vendidas por categoría
 
 #### 2.3 Informe Operacional
 (en proceso de actualización en el diseño) 
