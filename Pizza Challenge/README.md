@@ -38,13 +38,22 @@ Métricas
 4. Ventas por categoría. 
 5. Top 5 y Bottom 5 pizzas en ventas.
 6. Unidades vendidas e Ingresos por tamaño de pizza.
-7. Analisis de Pareto entre el tipo de pizzas e ingresos.
+7. Análisis de Pareto entre el tipo de pizzas e ingresos.
 8. Tabla resumen de ingresos totales e ingresos acumulados por tipo de pizza.
 
 Recomendaciones
+1. Revisar el menu de las pizzas con menor demanda. Podrian ofrecerse productos de temporada.
+2. Analizar si las pizzas con menos demanda pueden ser sustituidas con productos de sobremesa.
+3. Comparar los ingresos de las pizzas mas vendidas respecto a las pizzas que generan más ingresos.
+4. Revisar si se mantiene el tamano de pizzas XXL, que es el tamaño con menor deman
 
-
-###### 2.2 Informe Táctico
+###### 2 Informe Táctico
+Métricas
+1. Ventas por mes
+2. Ventas por dia
+3. Pizzas vendidas por tamano
+4. Pizzas vendidas por categoria
+5. 
 (en proceso de actualización en el diseño) 
 
 ![image](https://user-images.githubusercontent.com/82233779/210622302-3e8e20d8-6d49-4b75-96ce-7e100aa37ec3.png)
