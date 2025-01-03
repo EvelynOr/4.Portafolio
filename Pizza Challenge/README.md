@@ -60,9 +60,6 @@ Métricas
 ![image](https://user-images.githubusercontent.com/82233779/210622678-c244d66f-04ea-485e-92ee-b2aabfc65ad0.png)
 
 
-#### Recursos utilizados:   
-Información general sobre [DAX,](https://learn.microsoft.com/es-es/dax/dax-overview)
-Inspiracion dashboard y reportes: T.Sipahi, A. Godlewska.
 
 
 #
@@ -172,7 +169,8 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 
 
 
-[^1]: Competencia promovida por [Mavenanalytics.](https://www.mavenanalytics.io/blog/maven-pizza-challenge) y un poco de inspiración para el dashboard T.Sipahi     
+[^1]: Competencia promovida por [Mavenanalytics.](https://www.mavenanalytics.io/blog/maven-pizza-challenge), un poco de inspiración de T.Sipahi, A. Godlewska y S.Waghmare e información general sobre [DAX,](https://learn.microsoft.com/es-es/dax/dax-overview)
+
 [^2]: Es un módulo open source de Python con el que se hace el EDA con pocas [líneas de código.](https://pandas-profiling.ydata.ai/docs/master/index.html)
 [^3]: Los datos se agregan para dar extructura y contexto al proyecto realizado. Fuentes: R. Pindyck y D. Rubinfeld,  2009; [demographics](https://www.newjersey-demographics.com); [incomebyzipcode](https://www.incomebyzipcode.com); [homesnacks](https://www.homesnacks.com); [aaronallen&associates](https://aaronallen.com;https://nj1015.com); [forbes](https://www.forbes.com/); [pizzamedia](https://www.pmq.com); [ProQuest](https://www.proquest.com)
 
