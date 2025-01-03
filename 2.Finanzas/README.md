@@ -9,7 +9,7 @@
 - Nivel: básico-intermedio
 
 
-### ![PowerBI](https://user-images.githubusercontent.com/82233779/203394674-b71bd963-8ebe-412a-9b26-dae6af54bf1d.PNG)En Power BI
+### En Power BI
 
 Se trabajó con toda la data. Para ampliar el ejercicio se realizaron los niveles táctico y operacional.
 
