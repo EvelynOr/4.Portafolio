@@ -1,5 +1,5 @@
 # 💼 Portafolio   
-Varios proyectos de práctica y el uso de herramientas para Analytics:  # Power BI - Excel - Python - SQL
+Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI - Excel - Python - SQL
 
 
 ### Power BI
