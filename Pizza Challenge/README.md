@@ -48,7 +48,7 @@ Recomendaciones
 4. Revisar si se mantiene el tamano de pizzas XXL, que es el tamaño con menor deman
 
 Podéis revisar el apartado de recomendaciones operativas y administrativas, en la parte final de este proyecto. 
-###### 2 Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.pdf)
+###### 2. Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.pdf)
 Métricas
 1. Ventas por mes y por dia
 3. Pizzas vendidas por tamaño y por categoría
@@ -65,7 +65,7 @@ Recomendaciones
 7. Análisis de preferencias de tamaño: las pizzas medianas (M) y pequeñas (S) representan el 32% y 29% de las ventas respectivamente. Se podría analizar si hay una preferencia por estos tamaños y ajustar la oferta en consecuencia.
 
 Podéis revisar el apartado de recomendaciones operativas y administrativas, en la parte final de este proyecto. 
-#### 3 Informe Operacional
+###### 3. Informe Operacional
 (en proceso de actualización en el diseño) 
 
 ![image](https://user-images.githubusercontent.com/82233779/210622678-c244d66f-04ea-485e-92ee-b2aabfc65ad0.png)
