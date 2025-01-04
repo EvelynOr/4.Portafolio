@@ -48,7 +48,7 @@ Recomendaciones
 4. Revisar si se mantiene el tamano de pizzas XXL, que es el tamaño con menor deman
 
 Podéis revisar el apartado de recomendaciones operativas y administrativas, en la parte final de este proyecto. 
-###### 2 Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.p)
+###### 2 Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.pdf)
 Métricas
 1. Ventas por mes y por dia
 3. Pizzas vendidas por tamaño y por categoría
