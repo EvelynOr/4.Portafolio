@@ -6,7 +6,7 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 1. Reporte para [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/tree/main/Pizza%20Challenge), realizado en tres niveles: estratégico, táctico y operacional. Además, un análisis macro y microeconómico del mercado.
     
-2. Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/2.Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
+2. Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
 
 3. Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/3.%20Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
 
