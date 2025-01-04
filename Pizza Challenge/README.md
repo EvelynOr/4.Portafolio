@@ -56,13 +56,71 @@ Métricas
 5. Top 5 y Botton 5 de pizzas vendidas
 
 Recomendaciones
-1. Optimización de días de venta: las ventas son más altas los viernes ($136K) y más bajas los domingos ($99K). Se podría considerar implementar promociones especiales o descuentos los domingos para aumentar las ventas en ese día.
-2. Promociones por tamaño de pizza: las pizzas grandes (L) representan el 38% de las ventas, mientras que las pizzas extra grandes (XL) solo el 1%. Se podrían ofrecer promociones o combos para incentivar la venta de pizzas XL.
-3. Diversificación de categorías: las pizzas clásicas y supremas son las más vendidas (30% y 24% respectivamente). Se podría explorar la creación de nuevas categorías o mejorar las existentes para atraer a más clientes.
-4. Mejora en meses de baja venta: los meses de agosto y diciembre tienen las ventas más bajas ($64K y $65K respectivamente). Se podrían planificar campañas de marketing específicas para estos meses.
-5. Promociones de pizzas populares: las pizzas Thai Chicken y Barbecue Chicken tienen las ventas más altas. Se podrían crear promociones o combos que incluyan estas pizzas para aumentar aún más sus ventas.
-6. Aumento del ticket promedio: el promedio de orden es de $38. Se podrían ofrecer productos adicionales o combos que incentiven a los clientes a gastar más por orden.
-7. Análisis de preferencias de tamaño: las pizzas medianas (M) y pequeñas (S) representan el 32% y 29% de las ventas respectivamente. Se podría analizar si hay una preferencia por estos tamaños y ajustar la oferta en consecuencia.
+1. Optimización de Ventas por Día
+
+Análisis de Días de Mayor Venta: Los viernes y jueves son los días con mayores ventas ($136K y $124K respectivamente). Se recomienda implementar promociones especiales o eventos temáticos en estos días para maximizar las ventas.
+
+Mejorar Días de Menor Venta: Los domingos y lunes tienen las ventas más bajas ($99K y $107K respectivamente). Se podrían introducir descuentos o promociones especiales para atraer más clientes en estos días.
+
+2. Ajuste de Inventario y Producción
+
+Tamaño de Pizza Más Vendido: Las pizzas grandes (L) representan el 38% de las ventas. Asegurarse de tener suficiente inventario para satisfacer esta demanda.
+
+Categoría de Pizza Más Vendida: Las pizzas clásicas y supremas son las más vendidas (30% y 24% respectivamente). Se recomienda mantener un inventario adecuado de ingredientes para estas categorías.
+
+Reducción de Desperdicios: Implementar un sistema de gestión de inventarios que permita reducir el desperdicio de ingredientes y optimizar el uso de recursos.
+
+Optimización de Compras: Negociar con proveedores para obtener mejores precios y condiciones de compra, reduciendo así los costos de los ingredientes.
+
+3. Promociones y Marketing
+Promociones por Temporada: Analizar las ventas por mes muestra picos en mayo ($71K) y julio ($73K). Se podrían planificar campañas de marketing estacionales para estos meses.
+
+Promociones de Nuevos Productos: Introducir nuevas variedades de pizzas o ediciones limitadas para mantener el interés de los clientes y atraer nuevos.
+
+Promociones de Pizzas Populares: Las pizzas Thai Chicken y Barbecue Chicken tienen las ventas más altas. Se podrían crear promociones o combos que incluyan estas pizzas para aumentar aún más sus ventas.
+
+Promociones por Tamaño de Pizza: Las pizzas grandes (L) representan el 38% de las ventas, mientras que las pizzas extra grandes (XL) solo el 1%. Se podrían ofrecer promociones o combos para incentivar la venta de pizzas XL.
+
+Campañas de Marketing Digital: Utilizar redes sociales y plataformas digitales para promocionar ofertas y eventos especiales, llegando a un público más amplio y aumentando la visibilidad del restaurante.
+
+Fidelización de Clientes: Implementar programas de fidelización para recompensar a los clientes frecuentes y fomentar la repetición de compras.
+
+4. Mejora del Servicio al Cliente
+
+Capacitación del Personal: Asegurarse de que el personal esté bien capacitado para manejar el volumen de órdenes, especialmente en días de alta demanda.
+
+Optimización del Tiempo de Entrega: Implementar sistemas para mejorar la eficiencia en la entrega de pizzas, reduciendo el tiempo de espera del cliente.
+
+Atención Personalizada: Fomentar una cultura de atención personalizada para mejorar la experiencia del cliente y aumentar la satisfacción.
+
+5. Análisis de Datos y Retroalimentación
+Monitoreo Continuo de Métricas: Continuar monitoreando las métricas clave y ajustar las estrategias según sea necesario.
+
+Encuestas de Satisfacción: Implementar encuestas de satisfacción del cliente para obtener retroalimentación y mejorar continuamente el servicio y los productos ofrecidos.
+
+Análisis de Preferencias de Tamaño: Las pizzas medianas (M) y pequeñas (S) representan el 32% y 29% de las ventas respectivamente. Se podría analizar si hay una preferencia por estos tamaños y ajustar la oferta en consecuencia.
+
+6. Aumento del Ticket Promedio
+Ofertas de Productos Adicionales: El promedio de orden es de $38. Se podrían ofrecer productos adicionales o combos que incentiven a los clientes a gastar más por orden.
+
+Combos y Paquetes: Crear combos y paquetes que incluyan bebidas, postres u otros productos adicionales para aumentar el valor promedio de las órdenes.
+
+7. Diversificación de Categorías
+Exploración de Nuevas Categorías: Las pizzas clásicas y supremas son las más vendidas (30% y 24% respectivamente). Se podría explorar la creación de nuevas categorías o mejorar las existentes para atraer a más clientes.
+
+Menú Saludable: Introducir opciones de pizzas saludables o con ingredientes orgánicos para atraer a un público más amplio y consciente de la salud.
+
+8. Mejora en Meses de Baja Venta
+Campañas de Marketing Específicas: Los meses de agosto y diciembre tienen las ventas más bajas ($64K y $65K respectivamente). Se podrían planificar campañas de marketing específicas para estos meses.
+
+Eventos Especiales: Organizar eventos especiales o colaboraciones con otros negocios locales durante los meses de baja venta para atraer más clientes.
+
+9. Reducción de Costos Operativos
+Eficiencia Energética: Implementar prácticas de eficiencia energética para reducir los costos de electricidad y gas.
+
+Automatización de Procesos: Utilizar tecnología para automatizar procesos repetitivos y reducir la carga de trabajo del personal, mejorando la eficiencia operativa.
+
+Mantenimiento Preventivo: Realizar mantenimiento preventivo regular en equipos y maquinaria para evitar costos de reparación inesperados y prolongar la vida útil de los activos.
 
 Podéis revisar el apartado de recomendaciones operativas y administrativas, en la parte final de este proyecto. 
 ###### 3. Informe Operacional
