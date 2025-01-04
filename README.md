@@ -8,7 +8,7 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
     
 2. Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
 
-3. Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/3.%20Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
+3. Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
 
 4. Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/4.%20Informe%20Venta%20de%20Ropa)
 
