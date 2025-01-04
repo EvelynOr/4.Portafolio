@@ -5,7 +5,7 @@ Cada proyecto refleja mi capacidad para aplicar conocimientos macro y microecon�
 
 ### Power BI
 
--Reporte para [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Pizza%20Challenge), realizado en tres niveles: estratégico, táctico y operacional. Además, un análisis macro y microeconómico del mercado.
+- Reporte para [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Pizza%20Challenge), realizado en tres niveles: estratégico, táctico y operacional. Además, un análisis macro y microeconómico del mercado.
     
 2. Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
 
