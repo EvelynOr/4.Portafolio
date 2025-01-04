@@ -1,6 +1,7 @@
 # Proyectos Empresariales 
 Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI - Excel - Python - SQL
 
+Cada proyecto refleja mi capacidad para aplicar conocimientos macro y microeconómicos en el entorno empresarial, proporcionando informes y paneles que facilitan la toma de decisiones informadas. Ayudando a las empresas a optimizar sus operaciones y mejorar su rendimiento. Cada informe y análisis ha sido diseñado meticulosamente para abordar las necesidades específicas del negocio, con base al conocimiento en el campo económico-empresarial.
 
 ### Power BI
 
