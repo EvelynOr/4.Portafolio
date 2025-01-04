@@ -54,7 +54,7 @@ Métricas
 2. Ventas por dia
 3. Pizzas vendidas por tamaño
 4. Pizzas vendidas por categoría
-5. Pot hora: pizzas vendidas, ordenes atendidas, ventas realizadas
+5. Por hora: pizzas vendidas, ordenes atendidas, ventas realizadas
 6. Top 5 pizzas vendidas
 7. Botton 5 pizzas
 
