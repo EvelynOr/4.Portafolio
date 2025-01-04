@@ -47,7 +47,7 @@ Recomendaciones
 3. Comparar los ingresos de las pizzas mas vendidas respecto a las pizzas que generan más ingresos.
 4. Revisar si se mantiene el tamano de pizzas XXL, que es el tamaño con menor deman
 
-Podéis revisar el apartado de recomendaciones operativas y administrativas, en la parte final de este proyecto. 
+Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
 ###### 2. Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.pdf)
 Métricas
 1. Ventas por mes y por dia
@@ -101,7 +101,7 @@ Recomendaciones
 + Automatización de procesos: utilizar tecnología para automatizar procesos repetitivos y reducir la carga de trabajo del personal, mejorando la eficiencia operativa.
 + Mantenimiento preventivo: realizar mantenimiento preventivo regular en equipos y maquinaria para evitar costos de reparación inesperados y prolongar la vida útil de los activos.
 
-Podéis revisar el apartado de recomendaciones operativas y administrativas, en la parte final de este proyecto. 
+Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
 ###### 3. Informe Operacional
 (en proceso de actualización en el diseño) 
 
