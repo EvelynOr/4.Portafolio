@@ -4,13 +4,13 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
 
 ### Power BI
 
-1. Reporte para [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/tree/main/Pizza%20Challenge), realizado en tres niveles: estratégico, táctico y operacional. Además, un análisis macro y microeconómico del mercado.
+1. Reporte para [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Pizza%20Challenge), realizado en tres niveles: estratégico, táctico y operacional. Además, un análisis macro y microeconómico del mercado.
     
-2. Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
+2. Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
 
-3. Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
+3. Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
 
-4. Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Venta%20de%20Ropa)
+4. Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Venta%20de%20Ropa)
 
 
 ### Python
