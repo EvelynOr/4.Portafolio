@@ -8,14 +8,14 @@ Varios proyectos de práctica y el uso de herramientas para Analytics:  Power BI
     
 + Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
 
-Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
++ Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
 
-Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Venta%20de%20Ropa)
++ Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Venta%20de%20Ropa)
 
 
 ### Python
 
-A. Modelos para la Estimacion de Precios de Vivienda
++ Modelos para la Estimacion de Precios de Vivienda
 
 Etapa 1: [Recopilacion de Datos](https://github.com/EvelynOr/Python/tree/main/1.%20Proyectos/1.%20House%20Price%20Prediction)
 
@@ -27,6 +27,6 @@ Etapa 3: [Seleccion del Modelo](https://github.com/EvelynOr/Python/blob/main/1.%
 
 ### SQL Server
 
-1. [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/AnalisisDatos.sql)
++ [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/AnalisisDatos.sql)
    
-2. [Ventas minoristas](https://github.com/EvelynOr/SQL/blob/main/2.%20Ventas%20Minorista/VentasMinoristas.sql)
++ [Ventas minoristas](https://github.com/EvelynOr/SQL/blob/main/2.%20Ventas%20Minorista/VentasMinoristas.sql)
