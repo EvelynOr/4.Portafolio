@@ -5,13 +5,13 @@ Cada proyecto refleja mi capacidad para aplicar conocimientos macro y microecon�
 
 ### Power BI
 
-- Reporte para [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Pizza%20Challenge), realizado en tres niveles: estratégico, táctico y operacional. Además, un análisis macro y microeconómico del mercado.
+-Reporte para [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Pizza%20Challenge), realizado en tres niveles: estratégico, táctico y operacional. Además, un análisis macro y microeconómico del mercado.
     
-2. Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
+-Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
 
-3. Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
+-Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
 
-4. Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Venta%20de%20Ropa)
+-Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Venta%20de%20Ropa)
 
 
 ### Python
@@ -28,6 +28,6 @@ Etapa 3: [Seleccion del Modelo](https://github.com/EvelynOr/Python/blob/main/1.%
 
 ### SQL Server
 
-1. Analisis de Datos [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/blob/main/Proyectos_Empresariales/Pizza%20Challenge/AnalisisDatos.sql)
+-Analisis de Datos [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/blob/main/Proyectos_Empresariales/Pizza%20Challenge/AnalisisDatos.sql)
    
-2. Analisis de Datos [Ventas minoristas](https://github.com/EvelynOr/SQL/blob/main/2.%20Ventas%20Minorista/VentasMinoristas.sql)
+-Analisis de Datos [Ventas minoristas](https://github.com/EvelynOr/SQL/blob/main/2.%20Ventas%20Minorista/VentasMinoristas.sql)
