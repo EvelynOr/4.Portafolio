@@ -50,22 +50,19 @@ Recomendaciones
 Podéis revisar el apartado de recomendaciones operativas y administrativas, en la parte final de este proyecto. 
 ###### 2 Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.p)
 Métricas
-1. Ventas por mes
-2. Ventas por dia
-3. Pizzas vendidas por tamaño
-4. Pizzas vendidas por categoría
-5. Por hora: pizzas vendidas, ordenes atendidas, ventas realizadas
-6. Top 5 pizzas vendidas
-7. Botton 5 pizzas
+1. Ventas por mes y por dia
+3. Pizzas vendidas por tamaño y por categoría
+4. Por hora: pizzas vendidas, ordenes atendidas, ventas realizadas
+5. Top 5 y Botton 5 de pizzas vendidas
 
 Recomendaciones
-1. Optimización de Días de Venta: Las ventas son más altas los viernes ($136K) y más bajas los domingos ($99K). Se podría considerar implementar promociones especiales o descuentos los domingos para aumentar las ventas en ese día.
-2. Promociones por Tamaño de Pizza: Las pizzas grandes (L) representan el 38% de las ventas, mientras que las pizzas extra grandes (XL) solo el 1%. Se podrían ofrecer promociones o combos para incentivar la venta de pizzas XL.
-3. Diversificación de Categorías: Las pizzas clásicas y supremas son las más vendidas (30% y 24% respectivamente). Se podría explorar la creación de nuevas categorías o mejorar las existentes para atraer a más clientes.
-4. Mejora en Meses de Baja Venta: Los meses de agosto y diciembre tienen las ventas más bajas ($64K y $65K respectivamente). Se podrían planificar campañas de marketing específicas para estos meses.
-5. Promociones de Pizzas Populares: Las pizzas Thai Chicken y Barbecue Chicken tienen las ventas más altas. Se podrían crear promociones o combos que incluyan estas pizzas para aumentar aún más sus ventas.
-6. Aumento del Ticket Promedio: El promedio de orden es de $38. Se podrían ofrecer productos adicionales o combos que incentiven a los clientes a gastar más por orden.
-7. Análisis de Preferencias de Tamaño: Las pizzas medianas (M) y pequeñas (S) representan el 32% y 29% de las ventas respectivamente. Se podría analizar si hay una preferencia por estos tamaños y ajustar la oferta en consecuencia.
+1. Optimización de días de venta: las ventas son más altas los viernes ($136K) y más bajas los domingos ($99K). Se podría considerar implementar promociones especiales o descuentos los domingos para aumentar las ventas en ese día.
+2. Promociones por tamaño de pizza: las pizzas grandes (L) representan el 38% de las ventas, mientras que las pizzas extra grandes (XL) solo el 1%. Se podrían ofrecer promociones o combos para incentivar la venta de pizzas XL.
+3. Diversificación de categorías: las pizzas clásicas y supremas son las más vendidas (30% y 24% respectivamente). Se podría explorar la creación de nuevas categorías o mejorar las existentes para atraer a más clientes.
+4. Mejora en meses de baja venta: los meses de agosto y diciembre tienen las ventas más bajas ($64K y $65K respectivamente). Se podrían planificar campañas de marketing específicas para estos meses.
+5. Promociones de pizzas populares: las pizzas Thai Chicken y Barbecue Chicken tienen las ventas más altas. Se podrían crear promociones o combos que incluyan estas pizzas para aumentar aún más sus ventas.
+6. Aumento del ticket promedio: el promedio de orden es de $38. Se podrían ofrecer productos adicionales o combos que incentiven a los clientes a gastar más por orden.
+7. Análisis de preferencias de tamaño: las pizzas medianas (M) y pequeñas (S) representan el 32% y 29% de las ventas respectivamente. Se podría analizar si hay una preferencia por estos tamaños y ajustar la oferta en consecuencia.
 
 Podéis revisar el apartado de recomendaciones operativas y administrativas, en la parte final de este proyecto. 
 #### 3 Informe Operacional
