@@ -43,7 +43,7 @@ Métricas
    
 Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
 
-###### 2. Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.pdf)
+###### 2. Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/InformeTactico.pdf)
 Métricas
 1. Ventas por mes y por dia
 3. Pizzas vendidas por tamaño y por categoría
