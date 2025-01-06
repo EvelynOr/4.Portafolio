@@ -28,6 +28,6 @@ Etapa 3: [Seleccion del Modelo](https://github.com/EvelynOr/Python/blob/main/1.%
 
 ### SQL Server
 
--Analisis de Datos [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/blob/main/Proyectos_Empresariales/Pizza%20Challenge/AnalisisDatos.sql)
+-Analisis de Datos [Plato's Pizza](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/AnalisisDatos.sql)
    
 -Analisis de Datos [Ventas minoristas](https://github.com/EvelynOr/SQL/blob/main/2.%20Ventas%20Minorista/VentasMinoristas.sql)
