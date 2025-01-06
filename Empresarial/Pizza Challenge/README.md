@@ -23,7 +23,7 @@ Descripción del Análisis
 
 Actividades
 - Revisión de la data y diccionario
-- Integración de la data con SQL Server, [query](https://github.com/EvelynOr/4.Portafolio/blob/main/Proyectos_Empresariales/Pizza%20Challenge/SQLpizza_sales.sql)
+- Integración de la data con SQL Server, [query](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/SQLpizza_sales.sql)
 - Definición de métricas por tipo de análisis realizado
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
