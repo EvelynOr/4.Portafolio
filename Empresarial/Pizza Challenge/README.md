@@ -40,14 +40,9 @@ Métricas
 6. Unidades vendidas e Ingresos por tamaño de pizza.
 7. Análisis de Pareto entre el tipo de pizzas e ingresos.
 8. Tabla resumen de ingresos totales e ingresos acumulados por tipo de pizza.
-
-Recomendaciones
-1. Revisar el menu de las pizzas con menor demanda. Podrian ofrecerse productos de temporada.
-2. Analizar si las pizzas con menos demanda pueden ser sustituidas con productos de sobremesa.
-3. Comparar los ingresos de las pizzas mas vendidas respecto a las pizzas que generan más ingresos.
-4. Revisar si se mantiene el tamano de pizzas XXL, que es el tamaño con menor deman
-
+   
 Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
+
 ###### 2. Informe [Táctico](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/InformeTactico.pdf)
 Métricas
 1. Ventas por mes y por dia
@@ -55,53 +50,8 @@ Métricas
 4. Por hora: pizzas vendidas, ordenes atendidas, ventas realizadas
 5. Top 5 y Botton 5 de pizzas vendidas
 
-Recomendaciones
-1. Optimización de ventas por día
-+ Análisis de días de mayor venta: los viernes y jueves son los días con mayores ventas ($136K y $124K respectivamente). Se recomienda implementar promociones especiales o eventos temáticos en estos días para maximizar las ventas.
-+ Mejorar días de menor venta: los domingos y lunes tienen las ventas más bajas ($99K y $107K respectivamente). Se podrían introducir descuentos o promociones especiales para atraer más clientes en estos días.
-
-2. Ajuste de inventario y producción
-+ Tamaño de pizza más vendido: las pizzas grandes (L) representan el 38% de las ventas. Asegurarse de tener suficiente inventario para satisfacer esta demanda.
-+ Categoría de pizza más vendida: las pizzas clásicas y supremas son las más vendidas (30% y 24% respectivamente). Se recomienda mantener un inventario adecuado de ingredientes para estas categorías.
-+ Reducción de desperdicios: implementar un sistema de gestión de inventarios que permita reducir el desperdicio de ingredientes y optimizar el uso de recursos.
-+ Optimización de compras: negociar con proveedores para obtener mejores precios y condiciones de compra, reduciendo así los costos de los ingredientes.
-
-3. Promociones y marketing
-+ Promociones por temporada: analizar las ventas por mes muestra picos en mayo ($71K) y julio ($73K). Se podrían planificar campañas de marketing estacionales para estos meses.
-+ Promociones de nuevos productos: introducir nuevas variedades de pizzas o ediciones limitadas para mantener el interés de los clientes y atraer nuevos.
-+ Promociones de pizzas populares: las pizzas Thai Chicken y Barbecue Chicken tienen las ventas más altas. Se podrían crear promociones o combos que incluyan estas pizzas para aumentar aún más sus ventas.
-+ Promociones por tamaño de pizza: las pizzas grandes (L) representan el 38% de las ventas, mientras que las pizzas extra grandes (XL) solo el 1%. Se podrían ofrecer promociones o combos para incentivar la venta de pizzas XL.
-+ Campañas de marketing digital: utilizar redes sociales y plataformas digitales para promocionar ofertas y eventos especiales, llegando a un público más amplio y aumentando la visibilidad del restaurante.
-+ Fidelización de clientes: implementar programas de fidelización para recompensar a los clientes frecuentes y fomentar la repetición de compras.
-  
-4. Mejora del servicio al cliente
-+ Capacitación del ersonal: asegurarse de que el personal esté bien capacitado para manejar el volumen de órdenes, especialmente en días de alta demanda.
-+ Optimización del tiempo de entrega: implementar sistemas para mejorar la eficiencia en la entrega de pizzas, reduciendo el tiempo de espera del cliente.
-+ Atención personalizada: fomentar una cultura de atención personalizada para mejorar la experiencia del cliente y aumentar la satisfacción.
-
-5. Análisis de datos y retroalimentación
-+ Monitoreo continuo de métricas: continuar monitoreando las métricas clave y ajustar las estrategias según sea necesario.
-+ Encuestas de satisfacción: implementar encuestas de satisfacción del cliente para obtener retroalimentación y mejorar continuamente el servicio y los productos ofrecidos.
-+ Análisis de preferencias de tamaño: las pizzas medianas (M) y pequeñas (S) representan el 32% y 29% de las ventas respectivamente. Se podría analizar si hay una preferencia por estos tamaños y ajustar la oferta en consecuencia.
-
-6. Aumento del ticket promedio
-+ Ofertas de productos adicionales: el promedio de orden es de $38. Se podrían ofrecer productos adicionales o combos que incentiven a los clientes a gastar más por orden.
-+ Combos y paquetes: crear combos y paquetes que incluyan bebidas, postres u otros productos adicionales para aumentar el valor promedio de las órdenes.
-
-7. Diversificación de categorías
-+ Exploración de nuevas categorías: las pizzas clásicas y supremas son las más vendidas (30% y 24% respectivamente). Se podría explorar la creación de nuevas categorías o mejorar las existentes para atraer a más clientes.
-+ Menú saludable: introducir opciones de pizzas saludables o con ingredientes orgánicos para atraer a un público más amplio y consciente de la salud.
-
-8. Mejora en meses de baja venta
-+ Campañas de marketing específicas: los meses de agosto y diciembre tienen las ventas más bajas ($64K y $65K respectivamente). Se podrían planificar campañas de marketing específicas para estos meses.
-+ Eventos especiales: organizar eventos especiales o colaboraciones con otros negocios locales durante los meses de baja venta para atraer más clientes.
-
-9. Reducción de costos 0perativos
-+ Eficiencia energética: implementar prácticas de eficiencia energética para reducir los costos de electricidad y gas.
-+ Automatización de procesos: utilizar tecnología para automatizar procesos repetitivos y reducir la carga de trabajo del personal, mejorando la eficiencia operativa.
-+ Mantenimiento preventivo: realizar mantenimiento preventivo regular en equipos y maquinaria para evitar costos de reparación inesperados y prolongar la vida útil de los activos.
-
 Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
+
 ###### 3. Informe Operacional
 (en proceso de actualización en el diseño) 
 
