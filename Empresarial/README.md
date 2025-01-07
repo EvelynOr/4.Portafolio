@@ -9,7 +9,7 @@ Cada proyecto refleja mi capacidad para aplicar conocimientos macro y microecon�
     
 -Informe [Financiero](https://github.com/EvelynOr/4.Portafolio/tree/main/Empresarial/Finanzas). Resumen Ejecutivo, y del ejercicio original se amplió al agregar un reporte en el nivel táctico y otro reporte en el nivel operacional.
 
--Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
+-Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Empresarial/Ventas%20Minorista). Análisis de venta directa, para informes y paneles empresariales. 
 
 -Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Proyectos_Empresariales/Venta%20de%20Ropa)
 
