@@ -52,10 +52,10 @@ Métricas
 
 Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
 
-###### 3. Informe Operacional
-(en proceso de actualización en el diseño) 
+###### 3. Informe [Operacional](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/InformeOperacional.pdf)
 
-![image](https://user-images.githubusercontent.com/82233779/210622678-c244d66f-04ea-485e-92ee-b2aabfc65ad0.png)
+
+
 
 
 
