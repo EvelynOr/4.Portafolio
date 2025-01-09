@@ -53,11 +53,17 @@ Métricas
 Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
 
 ###### 3. Informe [Operacional](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/InformeOperacional.pdf)
+Métricas
+1. Pizzas vendidas por tipo
+2. Ordenes realizadas por tipo de pizza
+3. Tipo de pizza más vendido
+4. Pizzas despachadas por hora
+5. Día de la semana con más ventas de pizzas
+6. Hora del día con más ventas de pizzas
+7. Variación de las ventas de pizzas a lo largo de la semana
+8. Total de pizzas vendidas en una semana
 
-
-
-
-
+Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
 
 
 #
