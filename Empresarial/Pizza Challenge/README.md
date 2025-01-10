@@ -62,6 +62,7 @@ Métricas
 6. Hora del día con más ventas de pizzas
 7. Variación de las ventas de pizzas a lo largo de la semana
 8. Total de pizzas vendidas en una semana
+9. Control de inventario de ingredientes por tipo de pizza y dia de la semana
 
 Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
 
