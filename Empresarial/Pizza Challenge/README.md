@@ -27,6 +27,7 @@ Actividades
 - Definición de métricas por tipo de análisis realizado
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
+- Para el Informe Operacional, a la data general se agregaron dos columnas: 'ingredient' e 'ingredient_code". Esto para geestionar un tipo de inventario de los ingredientes que se requieren por tipo de pizza. Esta integracion se trabajo con Python.   
 
 ### En Power BI
  
