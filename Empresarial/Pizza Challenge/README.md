@@ -70,10 +70,9 @@ Podéis revisar el apartado de recomendaciones operativas y administrativas gene
 
 #
 
-### 1.2 📊 En Excel 
+### En Excel 
 
-Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinámicas y conexiones de informes para hacer dinámico el tablero  
-Dashboard en [Excel](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/Dashboard_Excel.PNG)
+Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utilizaron tablas dinámicas y conexiones de informes para hacer dinámico el tablero. Dashboard en [Excel](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/Dashboard_Excel.PNG)
 
 
 #
