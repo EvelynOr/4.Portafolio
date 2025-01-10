@@ -140,17 +140,18 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 
 ## 📍 2.2  Recomendaciones 
 
-#### Operativas
+#### Estrategicas
 1. Aprovechar el ingreso que registra el Estado, ubicándolo con un poder adquisitivo alto, derivado de las actividades económicas.
 2. Indagar la cantidad de restaurantes que tienen las ciudades con mayores ingresos, en caso ese sea el mercado al que se quieren dirigir.
 3. Ofrecer un producto diferenciado para ciudades con menores ingresos.
 4. Realizar pruebas de mercado y obtener resultados más cercanos y valiosos en términos cualitativos, y validar si los gustos y preferencias en la demanda de pizza han variado o se han mantenido, en función de los productos que ofrecen las mayores cadenas de pizzerías en los EE.UU.
-5. Ofrecer ofertas o compras previas a los días festivos nacionales/locales o que registran una mayor demanda.
-6. Ofrecer tipos de pizza que se identifiquen con la cultura culinaria del Estado u otras alternativas como veganos/vegetarianos/bajas calorías.
-7. Llamar la atención sobre los artículos de alto beneficio en el menú con fotos o leyendas.
-8. Armar combinaciones de productos y paquetes que aumenten el precio por cliente y los márgenes generales.
-9. En caso quieran competir con el precio promedio de US$ 11.00, ofrecerlo por temporada, por horario o por monto de compra.
-10. Agregar asientos al aire libre.
+5. 
+6. Ofrecer ofertas o compras previas a los días festivos nacionales/locales o que registran una mayor demanda.
+7. Ofrecer tipos de pizza que se identifiquen con la cultura culinaria del Estado u otras alternativas como veganos/vegetarianos/bajas calorías.
+8. Llamar la atención sobre los artículos de alto beneficio en el menú con fotos o leyendas.
+9. Armar combinaciones de productos y paquetes que aumenten el precio por cliente y los márgenes generales.
+10. En caso quieran competir con el precio promedio de US$ 11.00, ofrecerlo por temporada, por horario o por monto de compra.
+11. Agregar asientos al aire libre.
 
 #### Administrativas
 11. Estimar la elasticidad precio de la demanda que tiene el producto/los productos ofrecidos, ya que variaciones en el precio afecta los ingresos.
@@ -167,9 +168,7 @@ Para el 2017, se reporta para New Jersey un precio medio de una pizza grande de 
 +  las cloud kitchens para minimizar los costos generales y mejorar la logística
 +  robots de servicio de alimentos
 +  máquinas-robots para hacer pizzas, se encarga de todo menos de hacer la masa 
-+  actualizarse con reportes de [la industria](https://www.360researchreports.com/enquiry/request-sample/20996313) o estudios [especificos](https://www.proquest.com/docview/1860284813) 
-
-
++  actualizarse con reportes de [la industria](https://www.360researchreports.com/enquiry/request-sample/20996313) o estudios [especificos](https://www.proquest.com/docview/1860284813)
 
 
 
