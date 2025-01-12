@@ -1,4 +1,4 @@
-# 🍕🍕  1.  Plato's Pizza 
+# 🍕🍕  Plato's Pizza 
 
 Análisis de datos realizado para un restaurante de pizza [^1]  
 + Pregunta general: ¿Cuál fue el desempeño de Plato's Pizza en 2015? 
