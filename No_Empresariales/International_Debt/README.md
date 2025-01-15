@@ -11,8 +11,11 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 
 #### Herramientas y Tecnologías Utilizadas
 • Python: para otener y procesar los datos.
+
 •	SQL Server: para almacenar y gestionar los datos.
+
 •	Power BI: para la visualización de datos e informes interactivos.
+
 •	API del Banco Mundial: para acceder a los datos de deuda internacional y países.
 
 ##### Pasos del Proyecto
