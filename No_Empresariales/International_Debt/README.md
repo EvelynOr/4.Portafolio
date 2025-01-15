@@ -9,7 +9,7 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 ##### Objetivos del Proyecto
 •	Obtener datos de la deuda internacional (DT.DOD.DLXF.CD) publicada por el Banco Mundial
 
-#### Herramientas y Tecnologías Utilizadas
+#### 🛠️ Herramientas y Tecnologías Utilizadas
 • Python: para otener y procesar los datos.
 
 •	SQL Server: para almacenar y gestionar los datos.
