@@ -8,6 +8,8 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 
 ##### Objetivos del Proyecto
 •	Obtener datos de la deuda internacional (DT.DOD.DLXF.CD) publicada por el Banco Mundial
+•	Conectar la data a SQL Server
+•	Conectar Power BI a SQL Server
 
 #### 🛠️ Herramientas y Tecnologías Utilizadas
 • Python: para otener y procesar los datos.
@@ -18,5 +20,18 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 
 •	API del Banco Mundial: para acceder a los datos de deuda internacional y países.
 
-##### Pasos del Proyecto
+##### 🚶‍♀️ Pasos del Proyecto 
+1.	Obtener de datos:
+
+- Se utilizo solicitud HTTP para obtener datos de deuda internacional, datos de países y regiones desde la API del Banco Mundial.
+- Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
+
+2.	Almacenamiento de datos:
+-Los datos procesados se almacenaron en SQL Server para su gestión y consulta.
+- Se creó una tabla combinada en SQL Server para facilitar el análisis.
+  
+3.	Visualización de datos:
+- Se conectó Power BI a SQL Server para importar los datos.
+- Se crearon visualizaciones interactivas en Power BI, incluyendo mapas rellenos para mostrar la deuda por país.
+
 
