@@ -21,7 +21,7 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 •	API del Banco Mundial: para acceder a los datos de deuda internacional y países.
 
 #### 🚶‍♀️ Pasos del Proyecto 
-1.	Obtener de datos:
+1.	Obtener datos:
 
 - Se utilizo solicitud HTTP para obtener datos de deuda internacional, datos de países y regiones desde la API del Banco Mundial.
 - Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
