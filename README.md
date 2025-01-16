@@ -7,4 +7,4 @@ Proyectos_[Empresariales](https://github.com/EvelynOr/4.Portafolio/tree/main/Emp
 
 
 
-Proryectos [No_Empresariales](https://github.com/EvelynOr/4.Portafolio/tree/main/No_Empresarial)
+Proryectos [No_Empresarial](https://github.com/EvelynOr/4.Portafolio/tree/main/No_Empresarial)
