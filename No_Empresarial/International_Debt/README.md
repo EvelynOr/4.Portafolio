@@ -8,7 +8,9 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 
 ##### Objetivos del Proyecto
 •	Obtener datos de la deuda internacional (DT.DOD.DLXF.CD) publicada por el Banco Mundial
+
 •	Conectar la data a SQL Server
+
 •	Conectar Power BI a SQL Server
 
 #### 🛠️ Herramientas y Tecnologías Utilizadas
@@ -27,7 +29,7 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 - Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
 
 2.	Almacenamiento de datos:
--Los datos procesados se almacenaron en SQL Server para su gestión y consulta.
+- Los datos procesados se almacenaron en SQL Server para su gestión y consulta.
 - Se creó una tabla combinada en SQL Server para facilitar el análisis.
   
 3.	Visualización de datos:
