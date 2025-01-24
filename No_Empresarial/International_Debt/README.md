@@ -18,10 +18,9 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 # 
 #### Obtener datos 
 
-Se plantearon tres opciones:
+Conexion a la API y se plantearon dos opciones:
 1.   Archivos de Excel
-2.   Conexion de Python a SQL Server
-3.   COnexion de Power BI a SQL Server
+2.   Conexion de Python a SQL Server y de Power BI a SQL Server
 
 #### 🚶‍♀️ Propuestas: Gestión de la Data 
 
