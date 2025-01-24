@@ -6,7 +6,7 @@ Desde 1951, los países prestatarios que han recibido préstamos del Banco Inter
 
 La justificación del Banco Mundial para recopilar datos sobre las obligaciones de deuda externa de sus prestatarios proviene de la necesidad de garantizar su capacidad de servicio de la deuda y apoyar la evaluación de su salud macroeconómica general. 
 
-##### Objetivo del Proyecto
+#### Objetivo del Proyecto
 1. Obtener datos de la deuda internacional
     
 2. Proponer informe en Power BI para seguimiento del indicador
@@ -15,16 +15,10 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
  
 4. Estimar la deuda futura
 
-#### 🛠️ Herramientas y Tecnologías Utilizadas
-• Python: para otener y procesar los datos.
+# 
+#### Obtener datos 
 
-• SQL Server: para almacenar y gestionar los datos.
-
-•	Power BI: para la visualización de datos e informes interactivos.
-
-•	API del Banco Mundial: para acceder a los datos de deuda internacional y países.
-
-#### Obtener datos de la deuda internacional  
+Se plantearon tres opciones:
 1.   Archivos de Excel
 2.   Conexion de Python a SQL Server
 3.   COnexion de Power BI a SQL Server
