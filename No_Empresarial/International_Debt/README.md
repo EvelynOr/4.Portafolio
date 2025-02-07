@@ -6,45 +6,37 @@ Desde 1951, los países prestatarios que han recibido préstamos del Banco Inter
 
 La justificación del Banco Mundial para recopilar datos sobre las obligaciones de deuda externa de sus prestatarios proviene de la necesidad de garantizar su capacidad de servicio de la deuda y apoyar la evaluación de su salud macroeconómica general. 
 
-#### Objetivo del Proyecto
+### Objetivo del Proyecto
 
-Proponer informe en Power BI para seguimiento del indicador
+Propuesta de informe en Power BI para seguimiento del indicador
 
-#### Objetivos Especificos 
+#### Objetivos Específicos 
 
 1. Obtener datos de la deuda internacional
 
-2. Realizar un EDA
+2. Análisis de la data 
+
+3. Diseno de informe
  
-3. Estimar la deuda futura
+4. Estimar la deuda futura
 
 # 
-#### Obtener datos 
 
-Connsumir una API y se plantearon dos opciones:
-1.   Archivos de Excel
-2.   Conexion de Python a SQL Server y de Power BI a SQL Server
+## Procedimiento
 
-#### 🚶‍♀️ Propuestas: Gestión de la Data 
+### 1. Obtener datos 
+Se consumió la API del Banco Mundial para obtener datos de la deuda internacional, datos de países y regiones. Se plantearon dos opciones:
+1.1 Bajar data a archivos de Excel
+1.2 Conexion de Python a SQL Server:
+     + Los datos procesados se almacenaron en SQL Server para su gestión y consulta
+     + Se creó una tabla combinada en SQL Server para facilitar el análisis
 
-##### 1. Bajar data a archivos de Excel
-- Se consumio la API con Python
+###  2. Análisis de la data 
+Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
 
-   
-##### 2. Conexion de Python a SQL Server
- 
+### 3. Diseno de informe
++ Conexion de Power BI a SQL Server
++ Informe con cinco tipos de información: mapa relleno, resumen, por region, temporal y comparativo.    
 
-1.	Obtener datos:
-
-- Se consumió la API del Banco Mundial para obtener datos de deuda internacional, datos de países y regiones.
-- Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
-
-2.	Almacenamiento de datos:
-- Los datos procesados se almacenaron en SQL Server para su gestión y consulta.
-- Se creó una tabla combinada en SQL Server para facilitar el análisis.
-  
-3.	Visualización de datos:
-- Se conectó Power BI a SQL Server para importar los datos.
-- Se crearon visualizaciones interactivas en Power BI, incluyendo mapas rellenos para mostrar la deuda por país.
-
+### 4. Estimar deuda futura
 
