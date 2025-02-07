@@ -37,12 +37,12 @@ Se consumió la API del Banco Mundial para obtener datos de la deuda internacion
 
 ### 2.  Revisar Data
 
-###  3. Análisis de la data 
+###  3. Analizar data 
 Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
 
-### 4. Diseno de informe
+### 4. Diseno de Informe
 + Conexión de Power BI a SQL Server
 + Informe con cinco tipos de información: mapa relleno, resumen, por region, temporal y comparativo.    
 
-### 5. Estimar deuda futura
+### 5. Estimar Deuda Futura
 
