@@ -27,7 +27,7 @@ Propuesta de informe en Power BI para seguimiento del indicador
 ### 1. Obtener datos 
 Se consumió la API del Banco Mundial para obtener datos de la deuda internacional, datos de países y regiones. Se plantearon dos opciones:
 
-1.1 Bajar data a archivos de Excel con [Python](https://github.com/EvelynOr/Python/blob/main/Proyectos/Consumir_API/DebtStatistics_bajardata.ipynb)
+1.1 Bajar data a archivos de Excel con [Python](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/DebtStatistics_bajardata.ipynb)
 
 1.2 Conexion de Python a SQL Server:
 
