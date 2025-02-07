@@ -31,9 +31,9 @@ Se consumió la API del Banco Mundial para obtener datos de la deuda internacion
 
 1.2 Conexion de Python a SQL Server:
 
-     + Los datos procesados se almacenaron en SQL Server para su gestión y consulta
++ Los datos procesados se almacenaron en SQL Server para su gestión y consulta
      
-     + Se creó una tabla combinada en SQL Server para facilitar el análisis
++ Se creó una tabla combinada en SQL Server para facilitar el análisis
 
 ###  2. Análisis de la data 
 Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
