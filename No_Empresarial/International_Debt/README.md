@@ -26,16 +26,20 @@ Propuesta de informe en Power BI para seguimiento del indicador
 
 ### 1. Obtener datos 
 Se consumió la API del Banco Mundial para obtener datos de la deuda internacional, datos de países y regiones. Se plantearon dos opciones:
+
 1.1 Bajar data a archivos de Excel
+
 1.2 Conexion de Python a SQL Server:
+
      + Los datos procesados se almacenaron en SQL Server para su gestión y consulta
+     
      + Se creó una tabla combinada en SQL Server para facilitar el análisis
 
 ###  2. Análisis de la data 
 Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
 
 ### 3. Diseno de informe
-+ Conexion de Power BI a SQL Server
++ Conexión de Power BI a SQL Server
 + Informe con cinco tipos de información: mapa relleno, resumen, por region, temporal y comparativo.    
 
 ### 4. Estimar deuda futura
