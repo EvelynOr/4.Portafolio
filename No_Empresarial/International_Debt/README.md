@@ -7,13 +7,16 @@ Desde 1951, los países prestatarios que han recibido préstamos del Banco Inter
 La justificación del Banco Mundial para recopilar datos sobre las obligaciones de deuda externa de sus prestatarios proviene de la necesidad de garantizar su capacidad de servicio de la deuda y apoyar la evaluación de su salud macroeconómica general. 
 
 #### Objetivo del Proyecto
+
+Proponer informe en Power BI para seguimiento del indicador
+
+#### Objetivos Especificos 
+
 1. Obtener datos de la deuda internacional
-    
-2. Proponer informe en Power BI para seguimiento del indicador
-   
-3. Realizar un EDA
+
+2. Realizar un EDA
  
-4. Estimar la deuda futura
+3. Estimar la deuda futura
 
 # 
 #### Obtener datos 
