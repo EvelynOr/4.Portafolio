@@ -34,10 +34,11 @@ Se consumió la API del Banco Mundial para obtener datos de la deuda internacion
 
 ### 2.  Revisar Data
 
-###  3. Analizar data 
+### 3. Analizar data 
 Los datos se procesaron y almacenaron en un DataFrame de pandas para su análisis.
 
-### 4. Diseno de Informe
+### 4. Propuesta de Informe en Power BI 
+
 + Conexión de Power BI a SQL Server
 + Informe con cinco tipos de información: mapa relleno, resumen, por region, temporal y comparativo.    
 
