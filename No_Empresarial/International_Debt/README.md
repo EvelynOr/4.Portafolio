@@ -39,7 +39,7 @@ La revision se hizo en [SQLServer](https://github.com/EvelynOr/4.Portafolio/blob
 
 ### 3. Propuesta de Informe en Power BI 
 
-+ Conexión de Power BI a SQL Server
++ Conexión de Power BI a [SQLServer](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/Conexion_PowerBiSQL.sql)
 + Informe con cinco tipos de información: mapa relleno, resumen, por region, temporal y comparativo.    
 
 ### 5. Estimar Deuda Futura
