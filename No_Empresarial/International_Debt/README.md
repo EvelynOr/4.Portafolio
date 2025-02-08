@@ -31,9 +31,6 @@ Se consumió la API del Banco Mundial para obtener datos de la deuda internacion
 
 1.2 Conexion de Python a [SQLServer](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/DebtStatistics_conexion.ipynb):
 
-+ Los datos procesados se almacenaron en SQL Server para su gestión y consulta
-     
-+ Se creó una tabla combinada en SQL Server para facilitar el análisis
 
 ### 2.  Revisar Data
 
