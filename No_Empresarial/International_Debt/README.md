@@ -34,7 +34,7 @@ Se consumió la API del Banco Mundial para obtener datos de la deuda internacion
 
 ### 2.  Revisar Data
 
-La revision se hizo en SQL Server, en los siguientes aspectos:
+La revision se hizo en SQL Server, en los siguientes aspectos: tipo de datos, valores nulos, duplicados, validar relaciones (eje:Verificar que todos los países en la tabla 'debt' existan en la tabla 'region'), corrección de datos inconsistentes y valores distintos (eje: nombre de los paises).
 
 
 ### 3. Propuesta de Informe en Power BI 
