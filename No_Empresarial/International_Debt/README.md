@@ -34,7 +34,7 @@ Se consumió la API del Banco Mundial para obtener datos de la deuda internacion
 
 ### 2.  Revisar Data
 
-La revision se hizo en [SQLServer](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/RevisarData.sql), en los siguientes aspectos: tipo de datos, valores nulos, duplicados, validar relaciones (eje:Verificar que todos los países en la tabla 'debt' existan en la tabla 'region'), corrección de datos inconsistentes y valores distintos (eje: nombre de los paises).
+La revision se hizo en [SQLServer](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/RevisarData.sql), en los siguientes aspectos: tipo de datos, valores nulos, duplicados, validar relaciones (eje: verificar que todos los países en la tabla 'debt' existan en la tabla 'region'), corrección de datos inconsistentes y valores distintos (eje: nombre de los paises).
 
 
 ### 3. Propuesta de Informe en Power BI 
