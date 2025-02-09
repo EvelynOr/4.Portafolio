@@ -8,7 +8,7 @@ La justificación del Banco Mundial para recopilar datos sobre las obligaciones 
 
 ### Objetivo del Proyecto
 
-Propuesta de informe en Power BI para seguimiento del indicador
+Consumo de API para propuestas de análisis del indicador DT.DOD.DLXF.CD.
 
 #### Objetivos Específicos 
 
@@ -16,9 +16,9 @@ Propuesta de informe en Power BI para seguimiento del indicador
 
 2. Revisar data 
 
-3. Diseno de informe
+3. Disenar propuesta de informe
  
-4. Estimar la deuda futura
+4. Realizar otros análisis 
 
 # 
 
@@ -42,5 +42,9 @@ La revision se hizo en [SQLServer](https://github.com/EvelynOr/4.Portafolio/blob
 + Conexión de Power BI a [SQLServer](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/Conexion_PowerBiSQL.sql)
 + [Informe](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/DebtStatistics_Informe.pdf)con cinco tipos de información: mapa relleno, resumen, por region, temporal y comparativo.    
 
-### 5. Estimar Deuda Futura
+### 5. Otros Análisis 
+
+#### 5.1 Estimar Deuda Futura
+
+#### 5.2 EDA
 
