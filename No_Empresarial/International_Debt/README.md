@@ -27,7 +27,7 @@ Consumo de API para propuestas de análisis del indicador DT.DOD.DLXF.CD.
 ### 1. Obtener datos 
 Se consumió la API del Banco Mundial para obtener datos de la deuda internacional, datos de países y regiones. Se plantearon dos opciones:
 
-1.1 Bajar data a archivos de Excel con [Python](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/DebtStatistics_bajardata.ipynb)
+1.1 Bajar data a Excel con [Python](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/DebtStatistics_bajardata.ipynb)
 
 1.2 Conexion de Python a [SQLServer](https://github.com/EvelynOr/4.Portafolio/blob/main/No_Empresarial/International_Debt/DebtStatistics_conexion.ipynb):
 
