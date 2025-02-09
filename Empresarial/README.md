@@ -11,7 +11,7 @@ Cada proyecto refleja mi capacidad para aplicar conocimientos macro y microecon√
 
 - Informe de [Ventas Minoristas](https://github.com/EvelynOr/4.Portafolio/tree/main/Empresarial/Ventas%20Minorista). An√°lisis de venta directa, para informes y paneles empresariales. 
 
--Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Empresarial/Venta%20de%20Ropa)
+- Informe Venta de Ropa. [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Empresarial/Venta%20de%20Ropa)
 
 
 ### Python
