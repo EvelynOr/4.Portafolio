@@ -27,8 +27,7 @@ Actividades
 - Definición de métricas por tipo de análisis realizado
 - Diagramación 
 - Funciones utilizadas en el proceso: medidas automáticas, se creo una tabla con 15 DAX (expresiones de análisis de datos) utilizando: CALCULATE, AVERAGE, AVERAGEX, DIVIDE, RANKX, SUM, TOPN, DISTINCTCOUNT y se utilizó una tabla calendario.
-- Para el Informe [Operacional](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/InformeOperacional.pdf), a la data general se agregaron dos columnas: 'ingredient' e 'ingredient_code". Esto para gestionar un inventario de los ingredientes que se requieren por tipo de pizza. Esta integracion se trabajo con [Python](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/Base_con_ingrediente.ipynb).   
-
+  
 ### En Power BI
  
 ######  1. Informe [Estratégico](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/InformeEstrategico.pdf)
@@ -54,6 +53,8 @@ Métricas
 Podéis revisar el apartado de recomendaciones operativas y administrativas generales, en la parte final de este proyecto. 
 
 ###### 3. Informe [Operacional](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/InformeOperacional.pdf)
+En este informe se agregaron dos columnas: 'ingredient' e 'ingredient_code". Esto para gestionar un inventario de los ingredientes que se requieren por tipo de pizza. Esta integracion se trabajo con [Python](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/Base_con_ingrediente.ipynb).   
+
 Métricas
 1. Pizzas vendidas por tipo
 2. Ordenes realizadas por tipo de pizza
