@@ -30,4 +30,4 @@ Etapa 3: [Seleccion del Modelo](https://github.com/EvelynOr/Python/blob/main/1.%
 
 - Analisis de Datos [Plato's Pizza](https://github.com/EvelynOr/SQL/tree/main/Plato's%20Pizza%20)
    
-- Analisis de Datos [Ventas minoristas](https://github.com/EvelynOr/SQL/blob/main/2.%20Ventas%20Minorista/VentasMinoristas.sql)
+- Analisis de Datos [Ventas minoristas](https://github.com/EvelynOr/SQL/tree/main/Ventas%20Minorista)
