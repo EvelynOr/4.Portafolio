@@ -78,7 +78,7 @@ Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utili
 
 #
 
-En SQL [Server](https://github.com/EvelynOr/SQL/tree/main/Plato's%20Pizza%20)
+### En SQL [Server](https://github.com/EvelynOr/SQL/tree/main/Plato's%20Pizza%20)
 + Analisis de datos
 + Creación de Base de Datos
 
