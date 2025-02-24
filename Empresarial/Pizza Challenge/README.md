@@ -84,9 +84,9 @@ En SQL [Server](https://github.com/EvelynOr/SQL/tree/main/Plato's%20Pizza%20)
 
 #
 
-### En Python se realizó un EDA 
+### En Python
 
-Exploratory Data Analysis / Análisis Exploratio de Datos con Pandas Profiling [^2]. Se trabajó con la misma muestra utilizada en Excel, n =  500
+Se realizó un Exploratory Data Analysis EDA / Análisis Exploratio de Datos con Pandas Profiling [^2]. Se trabajó con la misma muestra utilizada en Excel, n =  500
 
 Procedimiento [EDA](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/EDA_PlatosPizza.ipynb)
 
