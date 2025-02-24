@@ -78,6 +78,12 @@ Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utili
 
 #
 
+En SQL [Server](https://github.com/EvelynOr/SQL/tree/main/Plato's%20Pizza%20)
++ Analisis de datos
++ Creación de Base de Datos
+
+#
+
 ### En Python se realizó un EDA 
 
 Exploratory Data Analysis / Análisis Exploratio de Datos con Pandas Profiling [^2]. Se trabajó con la misma muestra utilizada en Excel, n =  500
