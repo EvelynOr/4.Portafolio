@@ -88,7 +88,7 @@ Se trabajó con una muestra aleatoria generada en Python, con n =  500. Se utili
 
 ### En Python
 
-Se realizó un Exploratory Data Analysis EDA / Análisis Exploratio de Datos con Pandas Profiling [^2]. Se trabajó con la misma muestra utilizada en Excel, n =  500. Procedimiento [EDA](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/EDA_PlatosPizza.ipynb)
+Se realizó un Exploratory Data Analysis EDA / Análisis Exploratio de Datos con Pandas Profiling [^2]. Se trabajó con la misma muestra utilizada en Excel, n =  500. Procedimiento [EDA](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/EDA_PlatosPizza.ipynb) y reporte generado en [html](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/Reporte%20EDA_PlatosPizza.html).
 
 #
 
